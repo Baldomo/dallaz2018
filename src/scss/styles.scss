@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Roboto:400,900');
+}
+
+html, body {
+    height: 100%;
+}
+
+#cover {
+    background: #222 url('../assets/desert-sky.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+.round-button {
+    text-transform: uppercase;
+    color: white;
+    display: inline-block;
+    border-width: 2px;
+    border: 2px solid white;
+    border-radius: 2em 2em 2em 2em;
+    padding: 10px 20px 10px 20px;
+    transition: all .2s ease-in;
+}
+
+.round-button:hover {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+
+.filler {
+    height: 700px;
+    width: 100px;
+}
