@@ -38,7 +38,13 @@ html, body {
     color: black;
 }
 
+.nav-item.active {
+    border-bottom: 2px solid white !important;
+}
+
+// semplicemente un elemento vuoto che occupa molto spazio,
+// utile per testare la pagina
 .filler {
-    height: 700px;
+    height: 1000px;
     width: 100px;
 }

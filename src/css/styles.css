@@ -32,6 +32,9 @@ html, body {
   background-color: white;
   color: black; }
 
+.nav-item.active {
+  border-bottom: 2px solid white !important; }
+
 .filler {
-  height: 700px;
+  height: 1000px;
   width: 100px; }
