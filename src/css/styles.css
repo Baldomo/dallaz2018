@@ -6,7 +6,7 @@ html, body {
   height: 100%; }
 
 #cover {
-  background: #222 url("../assets/desert-sky.jpg") center center no-repeat;
+  background: #222 url("../assets/desert-sky.jpg") center fixed no-repeat;
   background-size: cover;
   color: white;
   height: 100%;
@@ -32,8 +32,16 @@ html, body {
   background-color: white;
   color: black; }
 
-.nav-item.active {
-  border-bottom: 2px solid white !important; }
+#nav-main {
+  min-height: 64px;
+  background-color: #4242ff !important; }
+
+.nav-item:hover {
+  transition: all .3s ease-in;
+  background-color: rgba(33, 33, 116, 0.4); }
+
+.nav-item > a.nav-link {
+  height: 100%; }
 
 .filler {
   height: 1000px;

@@ -6,7 +6,7 @@
 - [Modifica file](#modifica-file)
 
 ## Requisiti
-- Per lavorare sul codice sono necessario [Node.js](https://nodejs.org/en/) e [yarn](https://yarnpkg.com/en/docs/install)
+- Per lavorare sul codice è necessario [Node.js](https://nodejs.org/en/)
 - I linguaggi usati sono HTML5, Javascript (jQuery) e SASS (CSS standard con qualche aggiunta)
 - Unico framework integrato è [Bootstrap 4](https://getbootstrap.com/)
 - Per facilitare lo sviluppo sono utilizzati [gulp](https://gulpjs.com/) e [BrowserSync](https://browsersync.io/): creano un server dinamico che aggiorna in automatico il contenuto della pagina del browser man mano che si modificano i file
@@ -14,10 +14,10 @@
 ## Preparazione ambiente
 1. `git clone https://github.com/Baldomo/dallaz2018.git`
 2. `cd dallaz2018`
-3. `yarn install`
+3. `npm install`
 
 ## Esecuzione
-- `yarn run server`
+- `npm run server`
 
 ## Modifica file
 - I file/cartelle da modificare sono:
