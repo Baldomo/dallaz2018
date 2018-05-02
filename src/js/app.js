@@ -1,10 +1,5 @@
-$('.main').onepage_scroll({
-    pagination: false,
-    loop: false,
-    updateURL: false
-});
-
+// scrollify
 $('#learn-more').on('click', (e) => {
     //e.preventDefault();
-    $('main').moveTo(2);
+    //$('main').moveTo(2);
 });
