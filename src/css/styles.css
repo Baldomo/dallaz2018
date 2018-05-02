@@ -36,12 +36,11 @@ html, body {
   min-height: 64px;
   background-color: #4242ff !important; }
 
-.nav-item:hover {
-  transition: all .3s ease-in;
-  background-color: rgba(33, 33, 116, 0.4); }
+.nav-item {
+  transition: all .2s ease-in; }
 
-.nav-item > a.nav-link {
-  height: 100%; }
+.nav-item:hover {
+  background-color: rgba(33, 33, 116, 0.4); }
 
 .filler {
   height: 1000px;

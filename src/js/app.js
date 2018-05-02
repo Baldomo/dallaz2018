@@ -1,5 +1,8 @@
-// scrollify
+$.scrollify({
+    section: '.scrollable',
+    updateHash: false,
+});
+
 $('#learn-more').on('click', (e) => {
-    //e.preventDefault();
-    //$('main').moveTo(2);
+    $.scrollify.next();
 });
