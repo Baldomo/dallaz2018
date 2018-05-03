@@ -3,11 +3,50 @@
     src: url('https://fonts.googleapis.com/css?family=Roboto:400,900');
 }
 
+// Variables
+$nav-color: rgb(60, 60, 224);
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+// Mixins
+@mixin unselectable() {
+    user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
+
+@mixin tablet {
+    @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media (min-width: #{$desktop-width}) {
+        @content;
+    }
+}
+
+// Root styles
+%rounded-button {
+    text-transform: uppercase;
+    color: white;
+    display: inline-block;
+    border-width: 2px;
+    border: 2px solid white;
+    border-radius: 2em 2em 2em 2em;
+    padding: 10px 20px 10px 20px;
+    transition: all .2s ease-in;
+}
+
 html, body {
     height: 100%;
 }
 
 #cover {
+    @include unselectable();
     background: #222 url('../assets/desert-sky.jpg') center fixed no-repeat;
     background-size: cover;
     color: white;
@@ -21,26 +60,20 @@ html, body {
     width: 100%;
 }
 
-.round-button {
-    text-transform: uppercase;
-    color: white;
-    display: inline-block;
-    border-width: 2px;
-    border: 2px solid white;
-    border-radius: 2em 2em 2em 2em;
-    padding: 10px 20px 10px 20px;
-    transition: all .2s ease-in;
+.cover-button {
+    @extend %rounded-button;
 }
 
-.round-button:hover {
+.cover-button:hover {
     text-decoration: none;
     background-color: white;
     color: black;
 }
 
+// Navbar
 #nav-main {
-    min-height: 64px;
-    background-color: rgb(66, 66, 255) !important;
+    @include unselectable();
+    background-color: $nav-color !important;
 }
 
 .nav-item {
@@ -51,9 +84,33 @@ html, body {
     background-color: rgba(33, 33, 116, 0.4);
 }
 
+.hamburger-wrapper {
+    cursor: pointer;
+    transition: all .2s ease-in;
+    min-width: 60px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    object.hamburger {
+        pointer-events: none;
+        cursor: pointer;
+    }
+}
+
+.hamburger-wrapper:hover {
+    background-color: rgba(33, 33, 116, 0.4);
+}
+
 // semplicemente un elemento vuoto che occupa molto spazio,
 // utile per testare la pagina
 .filler {
+    flex: 1;
     height: 1000px;
     width: 100%;
+}
+
+.filler::after {
+    content: '\200b';
 }

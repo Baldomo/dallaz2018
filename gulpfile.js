@@ -4,7 +4,7 @@ var browserSync = require('browser-sync').create();
 
 gulp.task('sass', () => {
     return gulp.src(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'])
-        .pipe(sass())
+        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(gulp.dest('src/css'))
         .pipe(browserSync.stream());
 });
@@ -31,7 +31,7 @@ gulp.task('server', ['sass', /*'css'*/], () => {
         server: './src'
     });
 
-    gulp.watch(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'], ['sass', /*'css'*/]);
+    gulp.watch(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'], ['sass', /*'css'*/]).on('change', browserSync.reload);
     gulp.watch('src/*.html').on('change', browserSync.reload);
     gulp.watch('src/js/*.js').on('change', browserSync.reload);
 });
