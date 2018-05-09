@@ -9,12 +9,26 @@ $tablet-width: 768px;
 $desktop-width: 1024px;
 
 // Mixins
-@mixin unselectable() {
-    user-select: none;
-    -o-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
+@mixin animation($name, $duration, $interp, $iter: 1) {
+    animation: $name $duration $interp $iter;
+    -webkit-animation: $name $duration $interp $iter;
+    -moz-animation: $name $duration $interp $iter;
+    -o-animation: $name $duration $interp $iter;
+    -khtml-animation: $name $duration $interp $iter;
+}
+
+@mixin desktop {
+    @media (min-width: #{$desktop-width}) {
+        @content;
+    }
+}
+
+@mixin shadow() {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -o-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -khtml-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 @mixin tablet {
@@ -23,11 +37,18 @@ $desktop-width: 1024px;
     }
 }
 
-@mixin desktop {
-    @media (min-width: #{$desktop-width}) {
-        @content;
-    }
+@mixin unselectable() {
+    user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
 }
+
+// Animations
+@-moz-keyframes halfspin { 100% { -moz-transform: rotate(-180deg); } }
+@-webkit-keyframes halfspin { 100% { -webkit-transform: rotate(-180deg); } }
+@keyframes halfspin { 100% { -webkit-transform: rotate(-180deg); transform: rotate(-180deg); } }
 
 // Root styles
 %rounded-button {
@@ -68,12 +89,14 @@ html, body {
     text-decoration: none;
     background-color: white;
     color: black;
+    @include shadow();
 }
 
 // Navbar
 #nav-main {
     @include unselectable();
     background-color: $nav-color !important;
+    //@include prettyshadow();
 }
 
 .nav-item {
@@ -84,20 +107,21 @@ html, body {
     background-color: rgba(33, 33, 116, 0.4);
 }
 
+.navbar-toggler {
+    border-width: 0;
+}
+
+.navbar-toggler-icon {
+    background-image: url('../assets/arrow_white.svg') !important;
+}
+
 .hamburger-wrapper {
     cursor: pointer;
     transition: all .2s ease-in;
-    min-width: 40px;
-    max-width: 50px;
-    min-height: 40px;
+    padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-
-    object.hamburger {
-        pointer-events: none;
-        cursor: pointer;
-    }
 }
 
 .hamburger-wrapper:hover {
