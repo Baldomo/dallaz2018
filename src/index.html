@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0 shrink-to-fit=no">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,800">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -32,7 +32,7 @@
             </button>
             <div class="collapse collapser navbar-collapse" id="navbar-toggler">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active py-0">
+                    <li class="nav-item active">
                         <a href="#" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
@@ -42,10 +42,13 @@
                         <a href="#" class="nav-link">Ipsum</a>
                     </li>
                 </ul>
-            </div>
-            <div class="container-fluid"></div>
-            <div class="hamburger-wrapper collapse collapser navbar-collapse pull-right">
-                <object data="assets/menu.svg" type="image/svg+xml" class="hamburger-icon"/>
+                <ul class="navbar-nav navbar-right">
+                    <li class="nav-item">
+                        <a class="hamburger-wrapper navbar-collapse">
+                            <i class="hamburger fas fa-bars fa-lg"></i>
+                        </a>
+                    </li>
+                </ul>
             </div>
         </nav>
 
@@ -56,6 +59,7 @@
     <script src="js/popper.min.js"></script>
     <script src="js/jquery.scrollify.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/stickUp.min.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

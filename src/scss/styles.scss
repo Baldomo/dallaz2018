@@ -63,7 +63,7 @@ $desktop-width: 1024px;
 }
 
 html, body {
-    height: 100%;
+    height: 100vh;
 }
 
 #cover {
@@ -83,13 +83,13 @@ html, body {
 
 .cover-button {
     @extend %rounded-button;
-}
 
-.cover-button:hover {
-    text-decoration: none;
-    background-color: white;
-    color: black;
-    @include shadow();
+    &:hover {
+        text-decoration: none;
+        background-color: white;
+        color: black;
+        @include shadow();
+    }
 }
 
 // Navbar
@@ -101,10 +101,10 @@ html, body {
 
 .nav-item {
     transition: all .2s ease-in;
-}
 
-.nav-item:hover {
-    background-color: rgba(33, 33, 116, 0.4);
+    &:hover {
+        background-color: rgba(33, 33, 116, 0.4);
+    }
 }
 
 .navbar-toggler {
@@ -122,20 +122,24 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-}
 
-.hamburger-wrapper:hover {
-    background-color: rgba(33, 33, 116, 0.4);
+    &:hover {
+        background-color: rgba(33, 33, 116, 0.4);
+    }
+
+    .hamburger {
+        color: white;
+    }
 }
 
 // semplicemente un elemento vuoto che occupa molto spazio,
 // utile per testare la pagina
 .filler {
     flex: 1;
-    height: 1000px;
+    height: 2000px;
     width: 100%;
-}
 
-.filler::after {
-    content: '\200b';
+    &::after{
+        content: '\200b';
+    }
 }
