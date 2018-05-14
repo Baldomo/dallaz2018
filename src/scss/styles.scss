@@ -96,7 +96,6 @@ html, body {
 #nav-main {
     @include unselectable();
     background-color: $nav-color !important;
-    //@include prettyshadow();
 }
 
 .nav-item {

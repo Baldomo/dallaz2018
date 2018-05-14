@@ -14,7 +14,8 @@
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
     "jquery-scrollify": "^1.0.19",
-    "popper.js": "^1.14.1"
+    "popper.js": "^1.14.1",
+    "stickUp": "^2.3.1"
   },
   "scripts": {
     "server": "node node_modules/gulp/bin/gulp.js"
