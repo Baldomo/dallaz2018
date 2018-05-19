@@ -1,10 +1,13 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
 @font-face {
     font-family: 'Roboto', sans-serif;
     src: url('https://fonts.googleapis.com/css?family=Roboto:400,900');
 }
 
 // Variables
-$nav-color: rgb(60, 60, 224);
+$nav-color: rgb(224, 52, 52);
+$nav-hover: rgba(0,0, 0, 0.12);
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
@@ -102,7 +105,7 @@ html, body {
     transition: all .2s ease-in;
 
     &:hover {
-        background-color: rgba(33, 33, 116, 0.4);
+        background-color: $nav-hover;
     }
 }
 
@@ -123,7 +126,7 @@ html, body {
     justify-content: center;
 
     &:hover {
-        background-color: rgba(33, 33, 116, 0.4);
+        background-color: $nav-hover;
     }
 
     .hamburger {

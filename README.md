@@ -17,7 +17,7 @@
 3. `npm install`
 
 ## Esecuzione
-- `npm run server`
+- `npm run dev`
 
 ## Modifica file
 - I file/cartelle da modificare sono:
