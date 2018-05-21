@@ -1,12 +1,12 @@
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 
-@font-face {
+/*@font-face {
     font-family: 'Roboto', sans-serif;
     src: url('https://fonts.googleapis.com/css?family=Roboto:400,900');
-}
+}*/
 
 // Variables
-$nav-color: rgb(224, 52, 52);
+$nav-color: rgb(185, 45, 45);
 $nav-hover: rgba(0,0, 0, 0.12);
 $tablet-width: 768px;
 $desktop-width: 1024px;
@@ -103,6 +103,7 @@ html, body {
 
 .nav-item {
     transition: all .2s ease-in;
+    border-radius: 6px;
 
     &:hover {
         background-color: $nav-hover;
@@ -124,6 +125,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 6px;
 
     &:hover {
         background-color: $nav-hover;
@@ -144,4 +146,9 @@ html, body {
     &::after{
         content: '\200b';
     }
+}
+
+#content-wrapper {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
