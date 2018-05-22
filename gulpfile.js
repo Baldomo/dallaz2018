@@ -15,7 +15,8 @@ gulp.task('js', () => {
             'node_modules/jquery-scrollify/jquery.scrollify.js',
             'node_modules/stickUp/build/js/stickUp.min.js',
             'node_modules/mustache/mustache.min.js',
-            'node_modules/magnific-popup/dist/jquery.magnific-popup.min.js'
+            'node_modules/viewerjs/dist/viewer.min.js',
+            'node_modules/jquery-viewer/dist/jquery-viewer.min.js'
         ])
         .pipe(gulp.dest('src/js'))
         .pipe(browserSync.stream());

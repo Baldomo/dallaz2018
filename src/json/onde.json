@@ -1,5 +1,5 @@
 {
-    "esperimenti": [
+	"esperimenti": [
         {
             "titolo": "Moti oscillatori con aste e pendoli",
             "paragrafi": [
@@ -12,9 +12,7 @@
                     "testo": "<ul><li>4 asticciole metalliche con diametro 0,2 cm e lunghezza rispettivamente 100cm, 75cm,50cm e 25 cm</li><li>5 fili di nylon lunghezza 75cm</li></ul>"
                 }
             ],
-            "foto": [
-                "assets/desert-sky.jpg"
-            ]
+            "foto": []
         },
         {
             "titolo": "Moti oscillatori con aste e pendoli 2",
@@ -28,9 +26,163 @@
                     "testo": "<ul><li>4 asticciole metalliche con diametro 0,2 cm e lunghezza rispettivamente 100cm, 75cm,50cm e 25 cm</li><li>5 fili di nylon lunghezza 75cm</li></ul>"
                 }
             ],
-            "foto": [
-                "assets/desert-sky.jpg"
-            ]
-        }
-    ]
+            "foto": []
+        },
+		{
+			"titolo": "Ondoscopio7",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "A attraverso lo endoscopio è possibile simulare la propagazione delle onde piane: il modello Realizzato come scopo la visualizzazione delle modalità di trasmissione di queste ultime le proprietà che ne influiscono. Fenomeni conservabili: relazioni tra frequenza lunghezza d'onda, riflessione, rifrazione, interferenza tra onde, onde stazionarie."
+				},
+				{
+					"head": "Materiali e realizzazione",
+					"testo": "MATERIALI UTILIZZATI:<br> <ol><li>20 asticelle in legno (lunghezza 40 cm)</li><li>20 asticelle in legno (lunghezza 20 cm)</li><li>Spago da cucina</li><li>Colla a caldo</li><li>Sostegni da laboratorio</li><li>Pitture ad acqua</li></ol>FASE 1<br>Tagliare l'asticella in legno fino a raggiungere le dimensioni desiderate, quindi levigarle precedere praticanti fuori necessarie al fissaggio su lo spago. Ogni pacchetto viene bloccata due volte, a 2,5 cm della se centrale, sia destra che a sinistra di quest’ultima.<br>FASE 2<br>Inserire in successione le asticelle su lo spago precedentemente preparato e fissarle a una distanza reciproca variabile da 4,5 cm (bacchette lunghe) a 10 cm (bacchetta corta). In modo tale che si abbiano due fili paralleli, uno per ogni foto di ciascuna bacchetta. Completare l'operazione applicando della colla caldo in corrispondenza dei fori.<br>FASE 3<br>Utilizzare la pittura d'acqua per coprire le asticelle al fine di rendere maggiormente visibili e di migliorare la distinzione tra quelle più lunghe quelle più corte.<br>FASE 4<br>Completare la preparazione dell'esperimento tendendo la struttura mediante dei supporti dal laboratorio: lo spago deve apparire teso, affinché si visualizzi correttamente la propagazione dell’onda."
+				},
+				{
+					"head": "Cosa fare",
+					"testo": "Una volta accertati si cerca la tensione fisica del sistema, a afferrare l’ultima asticella della serie e muoverla ripetutamente verso l'alto e il basso. Nel corso la dimostrazione dell'esperimento, necessario variare intensità e frequenza del movimento di partenza per riuscire a rendere visibili tutti fenomeni citato in precedenza.<br>In particolare:<ol><li>osservare il comportamento dell'endoscopio e modificare l'oscillazione fino a Rho a notare la permanenza nello stato di quiete e di alcune bacchette. Notare ripetersi periodico di questi ultimi il completo movimento delle rimanenti (onda stazionaria).</li><li>Osservare il comportamento delle onde nel passaggio da tacchette lunghe (rosse) e corte (blu) e viceversa (rifrazione).</li><li>Osservare la propagazione dell'onda in senso inverso rispetto a quello impartito, una volta che questo aggiunge all'estremo opposto del sistema (riflessione).</li><li>Osservare il comportamento delle bacchette in presenza di più onde differenti (interferenza).</li></ol>"
+				},
+				{
+					"head": "Cosa accade",
+					"testo": "Le modalità con cui avviene la propagazione delle onde può essere rappresentata da tre valori fisici fondamentali (velocità, lunghezza d'onda, frequenza), secondo l’equazione:<br>v (velocità) = λ (lunghezza d’onda) * f (frequenza)<br>RELAZIONE TRA FREQUENZA E LUNGHEZZA D'ONDA<br>Come è possibile dedurre dall'equazione sopra riportata, relazioni tra frequenza lunghezza d'onda è proporzionale in modo inverso. Conseguentemente, un amento della frequenza comporterà una diminuzione della lunghezza d’onda.<br><br>RIFLESSIONE<br>Come accennato precedentemente, un'anta singola, una volta giunta al termine del sistema e (ossia sostegno opposto rispetto al punto di partenza) tende a ripetersi in senso inverso secondo modalità le più simili possibile quelle dell’onda originaria.<br><br>RIFRAZIONE<br>Nel passaggio da asticelle lunghe a corte (rosse e blu) e viceversa, l'onda si modifica a causa della rifrazione. La differenza di lunghezza tra le bacchette, infatti, sembra una variazione del mezzo attraverso cui si propaga l'onda. Tale passaggio è visibile grazie al differente comportamento comportamento delle bacchette spostato dal passaggio dell’onda.<br><br>INTERFERENZA TRA ONDE<br>Nel caso in cui le onde si incrociassero sovrapponessero tra loro, si assisterebbe l'interferenza: l'intensità totale è dato dalla somma delle intensità e, a seconda delle reazioni di fase tra le due onde, può aversi un rafforzamento (i. costruttiva) o un indebolimento (i. distruttiva) dei loro effetti.<br><br>ONDE STAZIONARIE<br>Nel caso di onde stazionarie, la perturbazione del mezzo materiale di propagazione periodica, e l'oscillazioni sono limitate dallo spazio. Non vi è infatti una pro che propagazione verso una certa direzione dello spazio, ma è presente semplicemente lo sci l'azione nel tempo. Il movimento, di conseguenza, è costituito solamente del profilo dell'onda stazionaria, che oscilla su e giù. Tale tipologia di onda è distinguibile per la presenza di nodi, ossia punti che rimangono sempre fissi."
+				}
+			],
+			"foto": []
+		},
+		{
+			"titolo": "Elettricità e magnetismo8",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "L'esperimento consiste nel mostrare come si può magnetizzare un oggetto di ferro tramite il campo magnetico generato dalla corrente elettrica che attraversa un conduttore metallico. Il flusso degli elettroni modifica le proprietà del mezzo attraverso il campo magnetico che si propaga come nonna, trasportando energia."
+				},
+				{
+					"head": "Materiali e realizzazione",
+					"testo": "Durante questa esperienza sono stati utilizzati :<ol><li>Batteria</li><li>Filo di rame</li><li>Limatura di ferro</li><li>Oggetto di ferro non zincato (chiodo)</li><li>Bussola</li><li>2 cavi</li></ol>"
+				},
+				{
+					"head": "Procedimento",
+					"testo": "Avvolgere il maggior numero di volte il filo di rame attorno all'oggetto di ferro.<br>Controllare che in assenza di corrente il chiodo non Sim magnetizzi, (la limatura di ferro non è attratto dal chiodo).<br>Collegare il filo di rame, tramite due cavi, alla batteria.<br>Verificare che la corrente elettrica nel filo di rame è in grado di creare un campo magnetico, il quale modifica temporaneamente le proprietà magnetiche dell'oggetto di ferro che diventa capace di attrarre la limatura di ferro."
+				},
+				{
+					"head": "Cosa accade",
+					"testo": "Una carica elettrica accelerata crea un campo magnetico; in questo caso il flusso ordinato degli elettroni di conduzione lungo il filo  di rame, sotto l'effetto della differenza di potenziale fornita dalla batteria, creare un campo magnetico.<br>L'intensità del campo magnetico che abbiamo creato attorno all'oggetto è proporzionale alla corrente che passa attraverso il filo (quindi alla forza elettromotrice della batteria) ed è proporzionale al numero di volte in cui il filo è stato avvolto (numero di spire).<br>L'elettromagnete che raccoglie le macerie delle auto funzione attraverso lo stesso principio del nostro esperimento, però che crea un campo magnetico di intensità molto maggiore.<br>Il campo magnetico si propaga come un’onda trasversale."
+				}
+			],
+			"foto": []
+		},
+		{
+			"titolo": "La liquefazione del suolo durante un sisma9",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "Esperimento consiste nel dimostrare come un terreno sabbioso argilloso, sottoposto a pressione con vibrazione, perde improvvisamente resistenza si comporti come un liquido denso, durante un terremoto, tanto da far sprofondare un edificio."
+				},
+				{
+					"head": "Materiali e realizzazione",
+					"testo": "<ol><li>Sabbia</li><li>Recipiente in plastica</li><li>Acqua</li><li>Modellino di un edificio (in legno)</li><li>Cera</li><li>Corda</li></ol>FASE 1: inserire all'interno del recipiente in plastica 10 l di sabbia e dell'acqua in quantità tale da ottenere un terreno saturo.<br>FASE 2: costruire il modellino di un edificio (in legno) e renderlo impermeabile con l'uso della cera. Questo passo necessario per poter estrarre più volte la struttura senza rovinarle e poter così ripetere l’esperimento."
+				},
+				{
+					"head": "Cosa fare",
+					"testo": "Inizialmente si procede premendo sopra l'edificio e si noterà come questo non sia in fossi. E, successivamente, battendo leggermente sul fianco del contenitore, edificio sprofonderanno le sabbia sottostante. Questo avviene poiché il movimento laterale sul recipiente ha generato delle onde che hanno reso la sabbia più fluida."
+				},
+				{
+					"head": "Cosa accade",
+					"testo": "Il fenomeno osservato viene definito liquefazione. Essa avviene quando la pressione dell'acqua, contenuta fra i poli di un terreno, diventa talmente forte da annullare le forze che lo fanno restare compatto e di conseguenza il terreno inizia comportarsi come un fluido.<br>Quando un terreno ricco di falde acquifere viene scosso, il fango si disperde creando un “vuoto” che faccia il bere il suolo e tutto ciò che si poggia sopra rischia di sprofondare o crollare.<br>La liquefazione avviene in seguito ad un terremoto, ovvero a un movimento brusco e rapido che si manifesta con una serie di scosse dovute ad onde sismiche.<br>Queste possono essere di profondità (P e S) e superficiali (L e R)."
+				}
+			],
+			"foto": []
+		},
+		{
+			"titolo": "Sismisurando10",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "L’esperimento che abbiamo realizzato si prefigge come obiettivo di rilevare l’andamento delle onde sismiche. Si propone dunque di ricreare il fenomeno sismico attraverso l’oscillazione di una piattaforma resa mobile da delle molle, le quali simulano la crosta terrestre, azionata dall’energia cinetica ricevuta dall’impatto del pendolo e di registrarlo attraverso un piccolo sismografo da noi ideato, trasferendo dall’onda su carta, grazie ad una penna fissata direttamente sulla piattaforma e a due rulli motorizzati che fanno scorrere il rotolo. Obiettivo secondario, ma non meno interessante della nostra indagine consiste nella sperimentazione di una rudimentale forma di sistema anti-sismico basata sulla propriet&agrave dell’attrito volvente, sfruttato attraverso una base di legno avente due ruote poste sotto a una delle due cassette."
+				},
+				{
+					"head": "Materiali e realizzazione:",
+					"testo": "<ul><li>Base in legno</li><li>Piattaforma in compensato agganciata alla base di 6 molle</li><li>Rotolo di carta termica e perno</li><li>2 rulli in legno</li><li>Alternatore di corrente</li><li>2 sbarrette di metallo come sostegno dei rulli</li><li>2 cassette di polistirolo</li><li>Asta di laboratorio con piombino</li></ul>"
+				},
+				{
+					"head": "Fase 1: zona del sisma",
+					"testo": "Inizialmente abbiamo montato la piattaforma sulla base di legno attraverso 8 molle in modo che, colpita dal pendolo fosse libera di oscillare. Su questa piattaforma abbiamo appoggiato due cassette, composte da vari pezzi polistirolo, una delle due avente sotto di essa una base dotata di 4 ruote."
+				},
+				{
+					"head": "Fase 2: sismografo",
+					"testo": "Per rappresentare le onde prodotte dalla piattaforma colpita dal pendolo abbiamo ideato un rullo motorizzato azionato da un avvitatore a batteria. Grazie ad una penna fissata direttamente alla piattaforma , siamo riusciti a rappresentare le onde sul rotolo di carta termica che scorre continuamente grazie al meccanismo dei rulli."
+				},
+				{
+					"head": "Magnitudo e scala richter",
+					"testo": "Quando avviene un terremoto l’energia accumulata dalle rocce si libera sotto forma di onde sismiche. Per misurare tale energia si utilizza la scala Richter: questa permette di calcolare la magnitudo, espressa dal logaritmo di base 10 del massimo spostamento della traccia di un sismografo. La magnitudo &egrave una misura dell’energia rilasciata durante un terremoto nella porzione di cresta dove questo si genera; il valore di magnitudo 0 produce un sismogramma di 0,001mm nel sismografo standard posto a 100km di distanza dall’epicentro. La forma per calcolare la magnitudo &egrave quindi: M=logA/Ac."
+				},
+				{
+					"head": "Cosa accade:",
+					"testo": "lasciando il pendolo, questa va a colpire la piattaforma; in questo modo quando una delle due casette cade, mentre l’altra osciller&agrave in modo opposto alla piattaforma . Allo stesso tempo la penna andr&agrave a creare un sismogramma sulla carta termica fatta rotare dall’avviatore"
+				},
+				{
+					"head": "Principi che regolano i fenomeni osservati",
+					"testo": "<ul><li>Aumentando l’ampiezza dell’angolo del pendolo, aumenta anche l’oscillazione della piattaforma; di conseguenza aumenter&agrave anche la lunghezza dell’onda riportata sulla carta</li><li>La casetta avente la base dotata di ruote resiste alla scossa grazie alla propriet&agrave dell’attrito volvente: esso &egrave la forza che si sviluppa fra due solidi a contatto in modo rotatorio relativo senza strisciamento. </li></ul>"
+				}
+			],
+			"foto": []
+		},
+		{
+			"titolo": "Take someone's free will11",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "Tramite degli elettrodi attaccati ad un braccio, l’impulso elettrico trasmesso dal tuo cervello al braccio verr&agrave rilevato da Arduino. Tramite atri elettrodi questo impulso verr&agrave mandato al braccio di un’altra persona, causandone un movimento muscolare. "
+				},
+				{
+					"head": "Materiali e realizzazione:",
+					"testo": "<ul><li>ElMuscle spiker sheild</li><li>Elettrodi</li><li>Arduino</li><li>Cavi elettrici</li><li>Smart TENS</li><li>Stagnatore</li></ul>"
+				},
+				{
+					"head": "Fase 1: ",
+					"testo": "Tramite l’utilizzo di uno stagnatore abbiamo fissato tutti i componenti sul muscle speik sheild."
+				},
+				{
+					"head": "Fase 2: ",
+					"testo": "Abbiamo scritto il programma da inserire in Arduino e adattato il cavo del TENS per poterlo utilizzare nell’esperimento"
+				},
+				{
+					"head": "Cosa fare: ",
+					"testo": "Prestare attenzione a posizionare gli elettrodi e a regolare l’intensit&agrave della corrente elettrica. Il TENS &egrave capace di liberare abbastanza corrente per causare una contrazione muscolare. Non posizionare gli elettrodi sulla gola e sul torace."
+				},
+				{
+					"head": "Cosa accade: ",
+					"testo": "Arduino rileva l’impulso elettrico inviato dal cervello del controllore al suo braccio, attivando il circuito attraverso il TENS. Questo rilascia attraverso degli elettrodi attaccati al braccio del controllato, una scarica elettrica con diversa potenza e intensit&agrave in base all’impulso inviato. Il nervo stimolato dalla scarica fa contrarre il muscolo che replica il movimento. Tra la superfice interna e quella esterna della membrava cellulare del neurone esiste una differenza di potenziale elettrico detto potenziale di riposo o potenziale di membrana: l’interno di una cellula &egrave caricato negativamente rispetto all’esterno. Tale differenza &egrave dovuta alle diverse concentrazioni di ioni sodio e potassio. L’impulso nervoso determina una variazione della permeabilit&agrave della membrana, che si traduce in un’inversione improvvisa della carica elettrica della cellula."
+				}
+			],
+			"foto": []
+		},
+		{
+			"titolo": "Tsunami12",
+			"paragrafi": [
+				{
+					"head": "Abstract",
+					"testo": "Tsu-nami vuol dire onda contro il porto e si intende un anomalo imponente moto ondoso del mare originato da un violentissimo terremoto sottomarino, spesso magnitudo>8 Richter, o da altri eventi che comportano uno spostamento improvviso di una grande massa di acqua quali, per esempio una gigantesca frana o un’eruzione vulcanica sottomarina. La forza e la distruttivit&agrave di uno tsunami dipende sostanzialmente dalla quantit&agrave di acqua spostata al momento della formazione del maremoto stesso. In questo esperimento proveremo a spiegarvi come si crea uno Tsunami."
+				},
+				{
+					"head": "Materiali e realizzazione:",
+					"testo": "<ul><li>Vetro sintetico 30cmx200cmx50cm</li><li>Pannelo di legno compensato</li><li>Colla polimrica</li><li>Listelli di legno</li><li>Acqua</li></ul>"
+				},
+				{
+					"head": "Fase 1: ",
+					"testo": "Abbiamo incollato il primo pannello al pannello di legno, poi tramite dei sostegni di fortuna siamo riusciti a montare e a sigillare le 4 pareti."
+				},
+				{
+					"head": "Fase 2: ",
+					"testo": "Abbiamo sistemato l’ultimo pannello poiché era troppo grande da posizionare, poi abbiamo creato 2 cinture in legno per sostenere la forza dell’acqua. Abbiamo costruito dei sostegni per la salita e successivamente l’abbiamo incollata e sigillata, infine abbiamo costruito il meccanismo di spostamento dell’acqua e abbiamo posizionato gli appoggi della vasca"
+				},
+				{
+					"head": "Cosa accade: ",
+					"testo": "L’onda di maremoto si forma quando la massa d’acqua, praticamente incomprimibile, grazi a violenti terremoti sottomarini, viene sollevata e tende a tornare verso l’iniziale posizione di equilibrio per effetto della forza di gravit&agrave F=mg. E dunque la forza di gravit&agrave che fungendo da forza di richiamo da effettivamente energia all’onda. L’onda comincia a propagarsi in grande velocit&agrave, conservando gran parte dell’energia e quando arriva vicino alla costa rallenta a causa dell’attrito con il fondale. Di conseguenza diminuendo la sua energia cinetica  aumenter&agrave l’energia potenziale gravitazionale Ep=mgh  e quindi l’altezza dell’onda. Questo esperimento vuole simulare proprio questo processo che porta alla formazione dello tsunami."
+				}
+			],
+			"foto": []
+		}
+	]
 }

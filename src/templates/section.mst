@@ -15,6 +15,7 @@
             </div>
             {{/foto}}
         </div>
+        <hr>
         {{/esperimenti}}
     </div>
     <aside class="col-12 col-lg-4 collapse show" id="side-nav">
@@ -22,7 +23,7 @@
             <ul class="nav nav-pills flex-column ml-auto">
                 {{#esperimenti}}
                 <li class="nav-item">
-                    <a class="nav-link" href="#{{titolo}}">{{titolo}}</a>
+                    <a class="nav-link placebo" href="javascript:;" data-to="#{{titolo}}">{{titolo}}</a>
                 </li>
                 {{/esperimenti}}
             </ul>

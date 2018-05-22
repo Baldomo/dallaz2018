@@ -1,4 +1,4 @@
-$(() => {
+$(function() {
     'use strict';
 
     $.scrollify({
@@ -26,10 +26,30 @@ $(() => {
         $.get('../templates/section.mst', (t) => {
             var rendered = Mustache.render(t, data);
             $('#content-wrapper').html(rendered);
+            setupViewer('.img-esperimento');
+            setupPills();          
+        });
+    }
 
-            $('.img-esperimento').magnificPopup({
-                type: 'image'
-            });
+    function setupViewer(selector) {
+        $(selector).viewer({
+            navbar: false,
+            title: false,
+            tooltip: false,
+            movable: false,
+            zoomable: false,
+            rotatable: false,
+            scalable: false,
+            loop: false
+        });
+    }
+
+    function setupPills() {
+        $('.placebo').on('click', function() {
+            var to = $(this).data('to');
+            $('html, body').animate({
+                scrollTop: $(to).offset().top
+            }, 1000);
         });
     }
 
