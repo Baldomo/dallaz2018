@@ -6,7 +6,7 @@
 }*/
 
 // Variables
-$nav-color: rgb(185, 45, 45);
+$nav-color: rgb(48, 48, 48);
 $nav-hover: rgba(0,0, 0, 0.12);
 $tablet-width: 768px;
 $desktop-width: 1024px;
@@ -131,7 +131,7 @@ html, body {
         background-color: $nav-hover;
     }
 
-    .hamburger {
+    .hamburger-icon {
         color: white;
     }
 }

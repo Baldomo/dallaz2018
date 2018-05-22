@@ -1,0 +1,36 @@
+{
+    "esperimenti": [
+        {
+            "titolo": "Moti oscillatori con aste e pendoli",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "L’onda è un ente fisico che si propaga senza scambio di malaria, ma con scambio di energia. Invece la vibrazione, o oscillazione, si verifica quando un corpo si muove attorno al suo punto di equilibrio. Questo esperimento consiste nel far vibrare/oscillare asticciole metalliche e fili di nylon alla cui estremità sono state poste delle masse."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li>4 asticciole metalliche con diametro 0,2 cm e lunghezza rispettivamente 100cm, 75cm,50cm e 25 cm</li><li>5 fili di nylon lunghezza 75cm</li></ul>"
+                }
+            ],
+            "foto": [
+                "assets/desert-sky.jpg"
+            ]
+        },
+        {
+            "titolo": "Moti oscillatori con aste e pendoli 2",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "L’onda è un ente fisico che si propaga senza scambio di malaria, ma con scambio di energia. Invece la vibrazione, o oscillazione, si verifica quando un corpo si muove attorno al suo punto di equilibrio. Questo esperimento consiste nel far vibrare/oscillare asticciole metalliche e fili di nylon alla cui estremità sono state poste delle masse."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li>4 asticciole metalliche con diametro 0,2 cm e lunghezza rispettivamente 100cm, 75cm,50cm e 25 cm</li><li>5 fili di nylon lunghezza 75cm</li></ul>"
+                }
+            ],
+            "foto": [
+                "assets/desert-sky.jpg"
+            ]
+        }
+    ]
+}

@@ -2,24 +2,29 @@
     <div class="col-12 col-lg-8" id="content">
         {{#esperimenti}}
         <h1 id="{{titolo}}">{{titolo}}</h1>
+        {{#paragrafi}}
+        <h4>{{head}}</h4>
         <p>{{&testo}}</p>
-        {{#foto}}
-        <div class="col-lg-3 col-md-4 col-xs-6">
-            <a href="javascript:;" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="{{&.}}" alt="">
-            </a>
+        {{/paragrafi}}
+        <div class="row">
+            {{#foto}}
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <a href="javascript:;" class="d-block mb-4 h-100">
+                    <img class="img-fluid img-thumbnail img-esperimento" src="{{&.}}" alt="">
+                </a>
+            </div>
+            {{/foto}}
         </div>
-        {{/foto}}
         {{/esperimenti}}
     </div>
-    <aside class="col-12 col-lg-4 sticky-top collapse" id="side-nav">
+    <aside class="col-12 col-lg-4 collapse show" id="side-nav">
         <section class="col-xs-12">
             <ul class="nav nav-pills flex-column ml-auto">
-                    {{#esperimenti}}
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;">{{titolo}}</a>
-                    </li>
-                    {{/esperimenti}}
+                {{#esperimenti}}
+                <li class="nav-item">
+                    <a class="nav-link" href="#{{titolo}}">{{titolo}}</a>
+                </li>
+                {{/esperimenti}}
             </ul>
         </section>
     </aside>
