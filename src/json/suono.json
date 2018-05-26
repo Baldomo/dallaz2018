@@ -1,0 +1,248 @@
+{
+    "esperimenti": [
+        {
+            "titolo": "Xilofono",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "L’esperimento consiste nella ricerca delle caratteristiche fondamentali del suono, l’altezza (frequenza), il timbro e l’intensità, attraverso la costruzione di due xilofoni di materiali differenti."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> lima</li><li> sega</li><li> trapano</li><li> viti</li><li>tovaglioli </li><li>accordatore </li><li> tavola di legno</li><li> tavola di plexiglas </li></ol>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Prendere la tavola e tagliarla in 8 pezzi con la sega a mano. Tagliare un pezzo lungo 35 cm e un altro lungo 25 cm, gli altri sei pezzi devono scalare progressivamente fino a riempire tutta la differenza fra gli estremi. Per accordare i tasti bisogna appoggiarli su un tovagliolo morbido così che possano risuonare. Colpire un tasto con il martelletto e misurare la frequenza con l’accordatore elettrico; se la frequenza è troppo bassa la si alza accorciandone l’estremità del tasto, se invece è troppo alta praticare un intaglio di forma curva, sul retro, al centro, con una lima. Per trovare la posizione esatta dei nodi spargere del sale sui tasti.Tagliare due pezzi di materiale lunghi 45 cm e avvolgerli con materiale morbido cosicché i tasti vibrando non producano rumore sbattendo contro il telaio."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Battendo sui diverso tasti di uno xilofono e misurando la frequenza con l’apposita applicazione, notare che i tasti più lunghi producono suoni con frequenza minore rispetto a quelli più corti.Associare la frequenza alla lunghezza del tasto.Battendo sullo stesso tasto dei due diversi xilofoni e analizzando lo spettrogramma notare che lo spettro centrale rimane inalterato, caratterizzando la nota, mentre quelli secondari cambiano, caratterizzando il timbro.Associare il timbro al materiale.Battendo su uno stesso tasto dello xilofono con maggiore o minore forza e misurando con l’applicazione l’intensità sonora, notare come nel primo caso l’intensità sia maggiore mentre nel secondo caso sia minore.Associare la forza con cui si batte su un tasto all’intensità del suono prodotto."
+                }
+            ],
+            "foto": ["assets/suono1.jpg"]
+        },
+        {
+            "titolo": "Quadricordo",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "L’esperimento consiste nello sfruttare un quadricordo per indagare come alcuni fattori come il materiale, la tensione, lo spessore e la lunghezza delle corde influiscano su frequenza, intensità e timbro dele onde sonore prodotte."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li> cassa di risonanza in legno</li><li>Due corde dello stesso materiale ma di spessore diverso tra loro</li><li>Due corde di spessore diverso ma di materiale diverso dalle precedenti</li><li>Quattro meccaniche da chitarra</li><li>Staffe in metallo</li><li>Dispositivo che consenta di monitorare le caratteristiche di un’onda sonora quali intensità, frequenza e armoniche secondarie</li><li>Accordatore</li></ul>"
+                },
+                {
+                    "head": "Fase 1",
+                    "testo": "Si inseriscono le meccaniche nella cassa di risonanza. Si fissano le corde alle staffe da un lato e dall’altro, le si annodano alle meccaniche, avendo cura di farle passare sotto il ponticello. Grazie alle meccaniche, si regola la prima corda sulla nota prodotta dal diapason. Si accordano quindi le due corde di materiale diverso mantenendo la stessa intensità, mentre l’altra corda dello stesso materiale sulla stessa nota."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Quattro differenti test:<br>Si pizzicano le due corde dello stesso materiale accordate sulla stessa nota<br>Si pizzicano le due corde dello stesso materiale tese con la stessa tensione<br>Si pizzicano due corde di materiali diversi con la stessa tensione<br>Si pizzica una corda qualsiasi, la si accorcia con la pressione di un dito e la si pizzica ancora, ne si aumenta la tensione grazie alle meccaniche e la si pizzica nuovamente<br>Per ogni test si misurano le caratteristiche di intensità, lunghezza d’onda e onde secondarie del suono emesso."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Ogni volta che si pizzica una corda questa genera un’onda sonora che si propaga nell’aria. Per ogni test effettuato si nota un cambiamento anche nelle caratteristiche del suono.<br>Nel primo test si vede che, mantenendo la stessa nota, la frequenza rimane invariata<br>Nel secondo test, invece, la frequenza del suono varia; si deduce che più la corda è sottile, più il suono è alto, mentre quando è più grossa il suono diventa più grave<br>Nel terzo test si deduce come, a parità di altri fattori, anche il materiale di cui sono fatte le corde contribuisca  variare la frequenza: più è denso, più la frequenza diminuisce<br>In tutti i test si dovrebbero notare variazioni significative di intensità e armoniche secondarie. "
+                }
+            ],
+            "foto": ["assets/suono2.jpg"]
+        },
+        {
+            "titolo": "Voci Delle Onde",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Le onde sonore necessitano di un mezzo in cui propagarsi, infatti queste non si trasmettono nel vuoto. In questi semplici esperimenti dimostriamo la propagazione del suono attraverso un pezzo solido ed elastico."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Posata</li><li>Spago lungo 1 metro </li><li> Righello di metallo</li></ol>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Si prenda l’impugnatura di una posata e vi si faccia attorno un nodo con uno spago di circa 1 m, in modo che i due pezzi di spago risultanti siano di uguale lunghezza.Si prendano le estremità degli spaghi e le si portino vicino alle orecchie. Una persona esterna con il righello di metallo colpisca la posta all’estremità non legata.Una volta eseguita la procedura è possibile ascoltare le vibrazioni prodotte dalla propagazione delle onde sonore. E’ utile confrontare le vibrazioni ottenute con strumenti diversi e con lunghezze di spaghi differenti."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Si ha una propagazione del suono attraverso un mezzo solido senza trasporto di materia. Si può notare che il suono varia a seconda della posata adoperata e a seconda della lunghezza dello spago scelta. E’ possibile notare che il suono più acuto risulta quando viene colpito il coltello mentre quello più grave è prodotto dal cucchiaio percosso; ciò significa che le frequenze d’onda del coltello sono maggiori rispetto a quelle del cucchiaio."
+                }
+            ],
+            "foto": ["assets/suono3.jpg"]
+        },
+        {
+            "titolo": "Voci delle onde 2",
+            "paragrafi": [
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li> Tubo cilindrico in metallo</li><li>Colla a caldo per bloccare la molla</li><li>Membrana di gomma</li><li>Gancio circolare per bloccare la membrana</li><li>Molla in metallo di diametro 0.09m e lunghezza circa 0,50m</li></ul>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Si prenda il cilindro in metallo e si chiuda una delle due basi con la membrana di gomma, bloccando quest’ultima con il gancio circolare. Si fissi al centro della membrana la molla. Il gesto produrrà un movimento ondulatorio della molla che a sua volta provocherà delle vibrazioni della membrana; queste si espanderanno all’interno del barattolo che farà da cassa di risonanza."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Si ha la propagazione del suono per mezzo di un corpo elastico all’interno di un cilindro che funge da cassa di risonanza; il suono emesso assomiglia molto a quello di un tuono."
+                }
+            ],
+            "foto": ["assets/suono3_1.jpg"]
+        },
+        {
+            "titolo": "Eidophone",
+            "paragrafi": [
+                {
+                    "head": "abstract",
+                    "testo": "L’ esperimento permette di visualizzare le onde sonore e di studiare la relazione che lega le forme che compaiono con la frequenza e l’ intensità dei suoni emessi."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li>vaso da fiori</li><li>tessuto gommoso (palloncino)</li><li> tubo di plastica</li> <li>sale o sabbia</li></ul>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Sigillare  la parte scoperta del vaso con la membrana gommosa e fissarla con un apposito nastro posto all’ estremità circolare del vaso, in maniera che la gomma ripulir tesa uniformemente.Successivamente, praticare un foro nella parte inferiore del vaso ed inserire il tubo di plastica facendo attenzione che questo combaci perfettamente e non vi siano fessure aperte che possano permettere il passaggio dell’ aria. "
+                },
+                {
+                    "head": "Procedimento",
+                    "testo": " Cospargere la membrana gommosa con un sottile strato di granuli, successivamente emettere dei suoni dal’ apertura del tubo di plastica e osservare i cambiamenti avvenuti allo strato granulare."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "A seconda dell’ intensità del suono emesso dall’ apertura del tubo di plastica,  i granuli posti sopra la membrana gommosa assumono forme diverse."
+                }
+            ],
+            "foto": ["assets/suono4.jpg"]
+        },
+        {
+            "titolo": "Onde e Materia",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Su una ciotola coperta da una pellicola trasparente distribuiamo omogeneamente del semolino. Un altoparlante bluetooth all’interno del recipiente, emette i suoni a frequenze diverse. Lo scopo del’ esperimento è mostrare come il suono influenzi la materia: si può osservare come questa si accumuli nella zona dei nodi e si allontani dei ventri e dalle creste delle onde stazionarie che sono state generate."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ul><li>2 scatole di plastica ( tonda e quadra )</li><li>rotolo di pellicola </li><li> confezione di semolino </li> <li>cassetta acustica </li><li> 2 telefoni, uno collegato alla cassa, l altro per registrare</li><li> un' app generatore di frequenza </li><li>un setaccio </li></ul>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "<ul><li>Prendiamo la ciotola quadrata e inseriamo all’ interno la cassa bluetooth e colleghiamola al cellulare con l’ app ‘’generatore di frequenza </li><li>coprire ciotola con la pellicola, in modo che sia il più tesa possibile</li><li> cospargere, aiutati con un setaccio, il semolino sulla pellicola </li> <li>  </li><li> impostare diverse fraquenze riprendendo ogni esperimento</li><li> ripetere stessa esperienza con ciotola circolare  </li><li>Le frequenze usate sono: 440, 550, 220, 330 Hz  </li></ul>"
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "E’ evidente come la sabbia si  accumuli in determinate zone rispetto ad altre. Come interpretare il fenomeno? Dobbiamo immaginare la lastra come una corda tesa attraverso la quale si propaga un’ onda. L’ onda arrivata all’ estremità della della corda torna indietro ad uguale velocità. ora generando onde a stessa frequenza ed ampiezza , queste andranno a sovrapporsi alle prime. Il risultato è proprio la produzione di onde stazionarie in cui sono presenti punti di massima oscillazione e minima. La sabbia si dispone su zone fisse in cui a vibrazione è nulla (punti nodali) e si allontana dalle zone di vibrazione massima. Si può notare come all’ aumentare ella frequenza aumentano i nodi. E’ molto importante che le onde abbian la stessa frequenza e ampiezza per la formazione di one stazionare. "
+                }
+            ],
+            "foto": ["assets/suono5.jpg"]
+        },
+        {
+            "titolo": "Propagazione del suono",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Gli esperimenti descritti in questa sezione dimostrano che il suono necessita di un pezzo elastico per propagarsi trasportando solo energia e non materia. Col cannone ad aria si indaga sul comportamento ondulatorio del suono nell’ aria evidenzia la differenza tra trasporto di energia e spostamento di particelle. Con il telefono a spago si dimostra come una cosa possa propagare il suono. L’ esperimento ‘’ sottosuono’’ evidenzia com l’ intensità "
+                },
+                {
+                    "head": "Costruzione",
+                    "testo": "<ul><li> il cannone è costituito da un grosso contenitore cilindrico alla base del quale è praticato un foro circolare ed alla cui sommità è posta una membrana elastica</li><li>il telefono a spago è costituito da 2 cilindri metallici aperti da un lato uniti tramite uno spago fissato con un nodo nel foro praticato alla base</li><li> sottosuono: il dispositivo consiste in una scatola di plexiglas munita di coperchio tenuta stagna collegata, tramite un rubinetto, ad una pompa da vuoto. All’ interno della statola viene diffuso un suono tramite un acassa bluetooth attivata dall’ esterno. Il dispositivo è stato dotato di un manometro per la misurazione della pressione interna.</li></ul>"
+                },
+                {
+                    "head": "Cosa fare e cosa accade",
+                    "testo": "Percuotendo la membrana elastica del cannone: si produce sia un suono che uno spostamento d’ aria. Per realizzare l’ esperimento servirà un ragazzo con un bicchierino testa che si posizionerà a qualche metro dal cannone. Una volta percossa la membrana il ragazzo avvertirà dapprima il suono ( che viaggia a 340 m/s) e solo dopo vedrà cadere il bicchiere a causa dello spostamento d’ aria. Riempiendo il cannone di fumo sarà possibile anche visualizzare le zone di compressione e rarefazione dell’ aria. Se un ragazzo parla all’ interno di un barattolo del telefono a spago, un altro potrà ascoltarlo avvicinando l’ orecchio  al bicchiere collegato.La comunicazione però si interrompe se il filo viene appesantito o pizzicato perché si impedisce la trasmissione del ‘onda. Nell ‘esperimento sottosuono, su dimostra che il suono no si propaga in assenza di aria. Infatti, una vota prodotto il vuoto all’ interno del contenitore, non sarà più possibile udire il suono prodotto dalla cassa che diversamente si potrà sentire man amano che l’ aria entra nel contenitore attraverso il rubinetto."
+                },
+                {
+                    "head": "Conclusione",
+                    "testo": "Il suono necessita di un mezzo per propagarsi e non sposta particelle ma solo energia. In basa al mezzo ( acqua, aria, spago…) comporta una diversa velocità. La densità del mezzo, invece, influisce sull’ intensità del suono."
+                }
+            ],
+            "foto": ["assets/suono6.jpg"]
+        },
+        {
+            "titolo": "Effetto doppler",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Nella vita di tutti i giorni sarà capitato a chiunque di sentire un'ambulanza che sta arrivando con le sirene accese e percepire queste ora più acute Ora più gravi. Christian Doppler attraverso i suoi studi è riuscito a dimostrare il perché. Noi, attraverso un dispositivo cellulare, grazie ad una ad un'apposita applicazione, possiamo verificare che al variare della posizione di una pallina da tennis, oscillante sopra esso, con un cicalino che emette un suono, varieranno anche la frequenza è l'intensità, espressi relativamente in Hertz in decibel, rilevate dal dispositivo. L'applicazione ci fornirà quindi il grafico delle diverse intensità rilevate, che risulterà altalenante e simmetrico. Così con un semplice esperimento riusciamo a dimostrare che il nostro dispositivo osservatore fermo sentirà un apparente variazione di frequenza ed intensità, nonostante la sorgente sonora sia sempre la stessa."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "pallina da tennis, cicalino, filo di rame (lunghezza di circa 2 m), filo da pesca (lunghezza di circa 1 m), batteria da 4,5 V, sostegno. "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Come prima cosa abbiamo inserito il cicalino all'interno della pallina da tennis e collegato i fili del cicalino ai fili di rame e al filo da pesca rispettivamente per collegare l'emettitore del suono alla batteria e per dare sostegno all’oscillazione. Successivamente abbiamo agganciato la pallina al sostegno e scaricato l'applicazione ‘Sound Meter’ per effettuare le misurazioni delle intensità del suono nelle diverse posizioni che assume la pallina durante l'oscillazione. Dalle misurazioni dell'app si nota come l'intensità aumenti con l'avvicinarsi della pallina dal dispositivo e diminuisca con l'allontanarsi, sebbene il suono emesso dal cicalino abbia sempre la stessa intensità"
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Sistemato il sostegno con la pallina da tennis e il cicalino sopra il dispositivo cellulare viene fatta partire l'apposita applicazione che sarà quindi pronta a rilevare eventuali frequenze ed intensità emesse da una specifica sorgente sonora. A questo punto grazie alla batteria da 4,5 V facciamo emettere un suono al cicalino e facciamo quindi oscillare la pallina. Notiamo che il cellulare nel frattempo crea un grafico dell'intensità e delle frequenze, i quali avranno dei picchi massimi ad indicare la vicinanza della pallina al cellulare e dei picchi minimi ad indicare i punti in cui la pallina è più distante dal dispositivo.Il principio alla base di questo esperimento è quello dell'effetto doppler, fenomeno che presenta diverse casistiche di un sistema osservatore sorgente sonora. Quella presa in esame dal nostro esperimento è quella in cui l'osservatore è fermo mentre la sorgente è in movimento, ora avvicinandosi, ora allontanandosi. La frequenza quindi percepita varia nonostante quella emessa dal cicalino sia costante."
+                }
+            ],
+            "foto": ["assets/suono7.jpg"]
+        },
+        {
+            "titolo": "Modello dell'orecchio umano",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Cosa succede mentre ascoltiamo una canzone? Come reagisce il nostro corpo il suono di un clacson? Nel nostro orecchio, In che modo un'onda sonora diventa un impulso elettrico che raggiunge il nostro cervello? Per rispondere a questa domanda, attraverso un approfondimento sulla fisica delle onde sonore, e uno studio più dettagliato dell' anatomia dell'orecchio umano, siamo riusciti a presentare un modello semplificato dell'orecchio medio e del suo funzionamento. "
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "sbarre d'acciaio (una piegata ad angolo di 90° e una semplice, dritta, entrambe con fori per le viti), viti, bulloni, rondelle, angolari, asse di legno compensato, disco di alluminio con elettromagnete che lo fa vibrare e che viene azionato da un pulsante, pulsante con centralina con le luci, molla rotellina per far scorrere la sbarra d'acciaio dritta"
+                },
+                {
+                    "head": "Fase 1",
+                    "testo": "realizzare un progetto di lavoro studiando il funzionamento interno dell'orecchio e come simularlo al fine di riprodurlo attraverso un modello in scala semplificato"
+                },
+                {
+                    "head": "Fase 2",
+                    "testo": "procurarsi il materiale necessario secondo le misure stabilite e creare un prototipo della scatola, che conterrà la struttura interna dell'orecchio, al fine di poterla realizzare"
+                },
+                {
+                    "head": "Fase 3",
+                    "testo": "realizzare la scatola in legno compensato, riportando le misure del prototipo su DS realizzare i fori per le viti. "
+                },
+                {
+                    "head": "Fase 4",
+                    "testo": "assemblare le varie parti all'interno della scatola e verificarne il funzionamento. "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "premendo il bottone, si crea la riproduzione di un'onda sonora che muove la membrana del timpano. Prestando attenzione all’oscillazione del disco a sinistra, noteremo come il suo moto si propaghi lungo tutto il sistema, dagli ossicini fino a un secondo pulsante che, premuto dalla staffa, accende la luce della lampadina, a indicare la trasformazione dell'onda sonora in impulso nervoso. "
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Il suono è un onda di pressione, ovvero l'aria intorno alla sorgente del suono viene compressa con una certa frequenza e questa compressione si propaga. Tale onda di pressione provoca il moto armonico della membrana del timpano all'interno dell'orecchio. Si dice moto armonico di un corpo il moto di un corpo la cui accelerazione direttamente proporzionale allo spostamento della posizione di equilibrio e ha verso opposto a esso; la frequenza del suono corrisponde al numero di oscillazioni al secondo del timpano. L’oscillazione armonica della membrana propaga l'onda agli ossicini interni dell'orecchio, ovvero martello, incudine e staffa, il nervo uditivo che riceve tale oscillazione e la trasforma in segnali che vengono poi elaborati e interpretati dal cervello."
+                }
+            ],
+            "foto": ["assets/suono8.jpg"]
+        },
+        {
+            "titolo": "Levitatore acustico",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Grazie ad un emettitore di onde sonore ad altre ad alta frequenza e una superficie riflettente si creano nell'aria strati di alta e bassa pressione. Posizionando piccoli oggetti questi rimarranno sospesi tra due strati ad alta pressione. "
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "Trasduttore ultrasonico a 28 kHz, scheda di alimentazione per trasduttore (220 V), superficie riflettente in metallo, sostegni per la superficie, palline di polistirolo."
+                },
+                {
+                    "head": "Fase 1",
+                    "testo": "collegare il trasduttore alla scheda di alimentazione e collegare quest'ultimo alla corrente. "
+                },
+                {
+                    "head": "Fase 2",
+                    "testo": "tramite gli appositi sostegni posizionare la superficie sopra il trasduttore. "
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "le palline di polistirolo posizionate fra il trasduttore e la superficie levitano in specifici punti che corrispondono alle zone di pressione costante, essendo sostenuto dalla variazione di pressione delle zone situate al di sotto di esse. l'esperimento si basa su due proprietà delle onde, in questo caso onde sonore: riflessione e interferenza. La riflessione avviene quando la direzione di propagazione dell'onda cambia nel momento in cui essa incontra una superficie di separazione. L'interferenza avviene quando le onde prodotte dal generatore e quelle riflessa dalla superficie si propagano lungo la stessa direzione ma versi opposti creando così un onda stazionaria. Essa presenta nodi a una distanza pari alla lunghezza d'onda dove la pressione dell'aria rimane costante e antinodi dove si alterna alta e bassa pressione."
+                }
+            ],
+            "foto": ["assets/suono9.jpg"]
+        }
+    ]
+}

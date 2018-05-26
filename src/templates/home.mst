@@ -1,0 +1,6 @@
+<div class="row" id="content">
+    <h1 class="text-center">{{titolo}}</h1>
+    {{#contenuti}}
+    <p>{{&.}}</p>
+    {{/contenuti}}
+</div>

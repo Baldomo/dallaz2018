@@ -7,7 +7,7 @@
 
 // Variables
 $nav-color: rgb(48, 48, 48);
-$nav-hover: rgba(0,0, 0, 0.12);
+$nav-hover: rgba(255, 255, 255, .95);
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
@@ -75,6 +75,7 @@ html, body {
     background-size: cover;
     color: white;
     height: 100%;
+    width: 100%;
     text-align: left;
     display: flex;
     align-items: center;
@@ -101,12 +102,28 @@ html, body {
     background-color: $nav-color !important;
 }
 
+#side-nav {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    flex-grow: 1;
+
+    &.hidden {
+        flex-shrink: 1;
+        width: 0;
+        display: none;
+    }
+}
+
 .nav-item {
     transition: all .2s ease-in;
-    border-radius: 6px;
+    border-radius: 2px;
 
-    &:hover {
+    &:hover:not(.pill) {
+        text-decoration: none;
         background-color: $nav-hover;
+        color: black !important;
     }
 }
 
@@ -125,10 +142,16 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 6px;
+    border-radius: 2px;
 
     &:hover {
+        text-decoration: none;
         background-color: $nav-hover;
+        color: black !important;
+
+        .hamburger-icon {
+            color: black !important;
+        }
     }
 
     .hamburger-icon {
@@ -149,6 +172,68 @@ html, body {
 }
 
 #content-wrapper {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#content {
+    flex-grow: 1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+
+    h1 {
+        margin-bottom: 2rem;
+    }
+
+    h4 {
+        margin-top: 2rem;
+    }
+}
+
+hr:last-child {
+    display: none;
+}
+
+.footer-div {
+    color: #ddd;
+    display: block;
+    height: 2rem;
+    line-height: 2rem;
+    margin-bottom: 0;
+    margin-top: 1rem;
+    position: relative;
+    text-align: center;
+    width: 100%;
+
+    &::before {
+        border-top: 1px solid #eee;
+        content: " ";
+        display: block;
+        height: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 50%;
+    }
+
+    &::after {
+        background-color: #fff;
+        content: "Ω";
+        padding-left: .5rem;
+        padding-right: .5rem;
+        position: relative;
+        z-index: 1;
+    }
+
+    &:hover {
+        color: $nav-color;
+    }
+}
+
+.gallery a img {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
 }

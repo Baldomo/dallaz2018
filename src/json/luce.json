@@ -1,0 +1,388 @@
+{
+    "esperimenti": [
+        {
+            "titolo": "Ottica geometrica",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Questo esperimento, dato uno specchio composto da rettangolini di carta argentata uniti tra loro, ha la funzione di far osservare come, cambiando la forma dello specchio, dunque da piano a sferico, cambianche la modalità in cui i raggi, generati da una candela, vengono riflessi."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li>Specchietti rettangolari o rettangoli di carta argentata; </li><li> Scotch;</li><li>Foglio di carta in cui disegnare una circonferenza oppure una parabola; </li><li> Candela</li></ol>FASE 1<br> Allineare gli specchietti a un paio di millimetri di distanza;<br>FASE 2<br> Unirli tra loro con una striscia discotch."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Una volta posti gli specchietti e uniti tra loro tramite un pezzo di scotch sullacirconferenza disegnata, porre la candelanel centro o nel fuoco della circonferenzae osservare come la luce viene riflessa."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "SPECCHIO PIANO:La luce viene riflessa secondo la prima legge di Snell, in cui un l’angolo d’incidenza è ugualea quello di riflessione.<br>SPECCHIO CONCAVO:La luce viene riflessa in 3 modi principalmente:Parallelamente all’asse ottico se la luce emanata dalla sorgente passa per il fuocodello specchio<br>Passa per il fuoco se la luce viene emanata parallelamente all’asse ottico dallasorgente <br>Con l’angolo di incidenza pari a 0 se la luce emanata dalla sorgente passa per il centro dello specchio."
+                }
+            ],"foto": ["assets/luce1.jpg"]
+        },
+        {
+            "titolo": "Rifrazione",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "La luce procede in linea retta: per vedere un oggetto, i nostri occhi devono incontrare i raggi luminosi provenienti da esso. Non vediamo più l’oggetto se un ostacolo opaco si frappone. Può capitare, però, di vedere l’oggetto dove non è, se il raggio luminoso passa da un mezzo ad un altro, diverso e non opaco. Pensate a come vedete un oggetto immerso nell’acqua di una piscina: esso vi appare più grande e a profondità minore, in posizione spostata rispetto a quella reale. Il cambiamento di direzione del raggio luminoso che si ha quando questo passa da un mezzo trasparente come l’acqua ad un altro come l’aria (o viceversa) si chiama “rifrazione”.Questa esperienza vuole farvi familiarizzare con le caratteristiche di questo fenomeno."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Polistirolo</li><li>Spilli </li><li> Goniometro</li><li>Monetina </li></ol>FASE 1<br>Si pone su un piano di polistirolo un recipiente a base semicircolare, trasparente, e lo si riempie con dell’acqua. Si disegna sul piano la semicirconferenza mancante. <br>FASE 2<br>Posizionare, ora, una monetina vicino alla mezzaluna, al livello dell’acqua: essa sembrerà più grande e leggermente spostata rispetto a quanto in realtà non lo sia."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Applicare uno spillo nel centro e tracciare il diametro in rosso perpendicolare al diametro che individua la semicirconferenza. Applicare un altro spillo sulla circonferenza in modo da definire un dato angolo al centro. Guardando poi attraverso la parte curva della mezzaluna, applicare un terzo spillo nella circonferenza disegnata, facendo in modo che i tre spilli risultino sovrapposti per la nostra vista. Si noterà, osservando dall’alto, che la posizione dei tre Spilli non individua una retta poiché la luce passando dall’aria all’acqua varia la sua direzione di propagazione. Ripetere l’azione con diverse angolature."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Ciò che osserviamo in questo esperimento è il fenomeno della rifrazione. La luce passa da un mezzo ad un altro, con indice di rifrazione (n) diverso: non subisce deviazione se entra o esce in modo perpendicolare alla superficie (lungo il diametro rosso); se invece forma un angolo con il diametro rosso (normale alla superficie di separazione) la direzione di propagazione della luce rifratta cambia come pure l’angolo che il raggioforma con la normale.<br>Legge di Snell-Cartesio: <br>ni sen∂i = nr sen∂r <br>Il prodotto tra l’indice di rifrazione del primo mezzo e il seno dell’angolo di incidenza ∂i, è uguale al prodotto tra l’indice di rifrazione del secondo mezzo e il seno dell’angolo di rifrazione ∂r."
+                }
+            ],"foto": ["assets/luce2.jpg"]
+        },
+        {
+            "titolo": "Ottica e lenti - le lenti convergenti",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Questo esperimento mira a verificare le proprietà delle lenti convergenti: in particolare quella di convogliare raggi paralleli incidenti alla lente in un solo punto detto fuoco, di riportare paralleli raggi aventi una sorgente puntiforme nel fuoco della lente e quella di modificare le dimensioni e l’orientamento dei determinate immagini (prodotte da oggetti) in funzione della distanza tra lente ed oggetto."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li>Lenti convergenti (x2) (f: +200mm)</li><li>Parallelepipedo di legno lungo 1 m</li><li>Guida in alluminio</li><li>Piccoli parallelepipedi in alluminio</li><li>Puntatori laser (x2)</li><li>Schermo bianco</li><li>Lampadina</li><li>Foglio di cartone con fori</li></ol>FASE 1<br>acquistare un pezzo di legno a forma di parallelepipedo già levigato sul quale montare una guida di alluminio fissandola con delle viti.<br>FASE 2<br>creare una postazione alla fine della guida per le due lenti.<br>FASE 3<br>predisporre un ulteriore sostegno per i due laser e degli elementi per mantenerli in funzione senza bisogno di una ulteriore persona che tenga premuto il pulsante. Per quanto riguarda la lampadina, invece, sarà appoggiata senza un particolare sostegno mentre il pannello in cartone forati sarà costruito ad incastro con la guida oppure sarà tenuto manualmente senza particolari sostegni."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Inviare un fascio di raggi paralleli nella lente e vedere cosa succede, riprovare questa volta iniziando da una sorgente puntiforme. Posizionare quindi la lampadina all'inizio della guida, di fronte a questa mettere il pannello di cartone e la lente, quindi modificare le distanze reciproche di panello-schermo-lente1. Dopo di che, ripetere la terza parte oscurando però metà lente. Vedere le immagini ed i risultati ottenuti dallo spostamento delle varie componenti come prima descritto."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Abbiamo deciso di unificare i primi due casi in uno, ovvero, partendo da due raggi paralleli a distanza qualsiasi della lente (le due lenti sono uguali ed alla distanza pari al doppio di quella focale), si mettono in funzione i laser notando che, in uscita dalla seconda lente, sono ancora paralleli ma invertiti e vedremo i due pennelli di luce converge in in uno (ci troviamo in corrispondenza del fuoco). Questa è la tipica proprietà delle lenti convergenti. I raggi vengono deflessi a causa della doppia rifrazione interna alla lente che questi subiscono (vedi figura). Per quanto riguarda la terza parte invece, si potrà notare che l’immagine dell’oggetto si formerà ad una distanza dalla lente che segue la legge 1/p+1/q=1/f (p: distanza oggetto-lente, q: distanza lente-immagine, f: distanza focale) ed ingrandita secondo la legge G=hi/ho=-di/do (i=immagine, o: oggetto iniziale). In particolare, se l’oggetto è ad una distanza minore di quella focale l’immagine sarà virtuale (prima della lente), diritta ed ingrandita, altrimenti sarà reale (dopo la lente) e capovolta. Per quanto riguardo l’ultimo punto, invece, l’immagine si formerà interamente anche se la lente è dimezzata, in quanto ogni punto di questa contribuisce alla formazione dell’immagine finale."
+                }
+            ],
+            "foto": ["assets/luce3.jpg"]
+        },
+        {
+            "titolo": "Inganni di luce",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Il caleidoscopio è uno strumento ottico in grado di creare una moltitudine di immagini a partire da un unico soggetto osservato. Per ottenere questo risultato, esso sfrutta il fenomeno della riflessione della luce su specchi piani. Il caleidoscopio consiste infatti in un tubo con estremità aperte in modo da permettere alla luce di entrarvi e arrivare all’osservatore, subendo però delle deviazioni nel suo percorso, dovuto alla presenza degli specchi. Per il nostro esperimento abbiamo costruito due caleidoscopi che sono composti dagli stessi elementi basilari comuni ad ogni caleidoscopio ma che differiscono tra loro per dei componenti aggiuntivi che creano un risultato leggermente diverso: in uno una lente e nell’altro un reticolo di diffrazione."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Tubi di alluminio (x2) </li><li> 3 specchi piani (x2)</li><li> Lente biconvessa con elevata aberrazione sferica</li><li> CD </li><li> Coperchio/ tappo adatto alle dimensioni del tubo (x2)</li><li> Punta di diamante </li><li> Nastro adesivo </li><li> Forbice/taglierino</li><li> Colla attacca-tutto/ colla a caldo</li> </ol>FASE 1<br> : creare un prisma regolare a base triangolare con gli specchi in modo che la parte riflettente si trovi all’interno, fissarlo con del nastro adesivo ed inserirlo nel tubo (eseguire il procedimento per entrambi i caleidoscopi).<br>FASE 2<br>creare il reticolo di diffrazione. <br>FASE 3<br> caleidoscopio A: posizionare e fissare con la colla a caldo e la colla attacca-tutto la lente all’estremità del tubo;<br>FASE 4<br>forare il coperchio e posizionarlo all’altra estremità del tubo, (eseguire per entrambi i caleidoscopi)."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Prisma regolare a base regolare (Fase 1): determinare la misura del lato del triangolo inscritto nella circonferenza del tubo utilizzato, usando la relazione che incorre tra la misura del lato del triangolo (l) e quella del raggio della circonferenza stessa (r): l=r√2. Una volta trovata questa misura è fondamentale sottrarre ad essa lo spessore del tubo e due volte lo spessore degli specchi (trattandosi infatti non di un prisma le cui facce sono figure piane ma ulteriori solidi geometrici).Reticolo di diffrazione (Fase 2): rimuovere l’argentatura dal CD i modo che rimanga solo la parte trasparente da cui poi verrà ricavato un reticolo delle stesse dimensioni dell’estremità del tubo con l’aiuto di una forbice."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Il sistema di specchi interno al caleidoscopio sfrutta il fenomeno della riflessione speculare della luce per creare molteplici immagini che consistono in riproduzioni simmetriche degli oggetti osservati. Inoltre, nel nostro esperimento, nel caleidoscopio A una lente convergente mostra gli oggetti osservati rimpiccioliti e capovolti, mentre nel caleidoscopio B il reticolo di diffrazione scompone la luce bianca nei colori che la compongono dando l’illusione che si crei una sorta di arcobaleno"
+                }
+            ],
+            "foto": ["assets/luce4.jpg"]
+        },
+        {
+            "titolo": "Disco Newton e permanenza delle immagini",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "La luce è apparentemente bianca, ma in realtà è composta da sette colori dello spettro: rosso, arancione, giallo, verde, blu, indaco e violetto. Questo esperimento serve a spiegare proprio che la luce non è bianca, ma il bianco è un risultato della sovrapposizione dei sette colori. Il disco di Newton è considerato l' esperimento opposto a quello della luce che attraversa il prisma. "
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Base di legno</li><li> Asse di legno</li><li> </li><li>Motore </li><li>Potenziometro </li><li>Basi per le lampadine </li><li> Lampadine</li><li> Interruttore</li><li>Cavi Elettrici</li><li>Dischi con sezioni colorate</li><li>Batteria da 4,5V </li></ol>FASE 1<br>La luce è apparentemente bianca, ma in realtà è composta da sette colori dello spettro: rosso, arancione, giallo, verde, blu, indaco e violetto. Questo esperimento serve a spiegare proprio che la luce non è bianca, ma il bianco è un risultato della sovrapposizione dei sette colori. Il disco di Newton è considerato l' esperimento opposto a quello della luce che attraversa il prisma. <br>FASE 2<br>Eseguire tutti collegamenti elettrici necessari per il corretto funzionamento di tutte le componenti e installare il potenziometro nel circuito per il motore e l' interruttore in quello della lampadina."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Fissare il disco all'asse e metterlo in movimento collegando il suo motore alla batteria.<br>Accendere la lampadina situata sotto il disco."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Disco di Newton: Non appena si aumenta la velocità di rotazione, i colori sembrano 'fondersi' nel bianco. Questo è dovuto alla ridotta frequenza con cui l'occhio 'fotografa' la realtà: quindi quando l'occhio vede un colore è in una posizione, subito dopo, però, nella stessa posizione ne vede un altro, il cervello fonde i colori. Quando i colori che si fondono sono i sette dello spettro il risultato è il bianco. Quindi questo esperimento serve a spiegare che il bianco può essere prodotto dalla somma di particolari colori.<br> Permanenza delle immagini:Noi riusciamo a vedere la lampadina di continuo grazie al fenomeno chiamato persistenza delle immagini sulla retina; grazie a questo fenomeno se il nostro occhio riceve due immagini intervallate da un tempo inferiore a 0,1 secondi, vediamo la seconda immagine prima che la precedente sia dimenticata. "
+                }
+            ],
+            "foto": ["assets/luce5.jpg"]
+        },
+        {
+            "titolo": "Esperimenti per vederci chiaro",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Alcuni difetti visivi sono causati dal malfunzionamento del cristallino, la “lente” del nostro occhio, che convoglia la luce che riceve dall’esterno in un unico punto sulla retina, rendendo nitida l’immagine. L’ esperimento si proponedi mostrare come le lenti divergenti o convergenti siano in grado di correggere i difetti di sfocatura causati da un cristallino incapace di deviare la luce, onda elettromagnetica, qui rappresentata da laser, all’interno dell’occhio."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Piano di lavoro in legno multistrato </li><li>Geneatori di fasci di laser rossi </li><li> Set di lenti convergenti e divergenti</li><li> Supporti per lenti e per laser in LEGO </li>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Posizionare, dopo i generatori di fasci laser, due lenti convergenti e divergenti. Notare come siano in grado di deviare il percorso parellelo dei fasci luminosi e come portino alla formazione del fuoco reale e virtuale.<br>Posizionare la lente rappresentante il cristallino sano e osservare come il fuoco cada sulla retina.<br>Posizionare la lente rappresentante il cristallino miope e notare come il fuoco cada prima della retina. Anteporre una lente divergente; il fuoco cade ora sulla retina.<br>Posizionare, con la lente rappresentante il cristallino sano, il secondo schermo anteposto al primo, rappresentante l’accorciamento del bulbo oculare, e notare come il fuoco cada dopo la retina. Anteporre ad esso una lente convergente; il fuoco cade ora sulla retina."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "La luce, onda elettromagnetica di propagazione rettilinea, penetra nell’occhio umano e, deviata dal cristallino, converga “messa a fuoco” sulla retina dove, tramite il nervo ottico, il segnale giunge al cervello. Il cristallino è elastico: più è allungato e meno è in grado di  convergere. La luce proveniente da lontano si presenta parallela all’occhio. Nella miopia il cristallino converge troppo la luce; il fuoco si trova prima della retina e le immagini lontane appaiono sfuocate. Nella presbiopia, presente in età adulta, il bulbo oculare si restringe. I raggi luminosi provenienti da vicino appaiono divergenti e  il cristallino converge abbastanza; il fuoco si trova oltre la retina e le immagini vicine appaiono sfuocate. La correzione della miopia consiste nell’allontanare il fuoco, quindi nel divergere la luce prima del cristallino, anteponendo all’occhio una lente divergente concava, che allontana i raggi luminosi. Ora la lente compensa al cristallino e il fuoco cade sulla retina. Nella presbiopia è necessario invece avvicinare il fuoco, perciò far convergere la luce, anteponendo all’occhio una lente convergente convessa, che avvicina i raggi luminosi."
+                }
+            ],
+            "foto": ["assets/luce6.jpg"]
+        },
+        {
+            "titolo": "Camera oscura",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "La camera oscura è un dispositivo ottico composto da una scatola nera all’interno, uno specchio inclinato e un piano di proiezione in vetro. A partire dal Quattrocento, diversi pittori ne sfruttarono i principi realizzare le loro opere. Col tempo, da semplice proiettore  di immagini, con l’aggiunta di lenti che  ne perfezionarono la messa a  fuoco, si utilizzò questo mezzo per costruire le prime macchine fotografiche."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Pannello in legno</li><li>Cerniere </li><li>Guida in acciaio</li><li> Pannelo in vetro</li><li>Pittura </li><li> Materiali per il fissaggio</li><li> Specchio</li><li> Lente</li><li>Telo scuro</li><li>Torcia/lampadina</li></ol>1. Carteggiare e dipingere il lato interno dei pannelli di nero br>Assemblare i pannelli costruendo una scatola <br>Fare un piccolo foro su una delle facciate minori della scatola e posizionarvi internamente la lente <br>Sul fondo  opposto posizionare lo specchio, in modo da garantirgli un’ inclinazione di 45° rispetto la base con l’aiuto di una guida.<br>Sul coperchio costruire un’anta richiudibile appena sopra lo specchio, o tra essi inserirvi un vetro. <br>Rifinire esteticamente."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": " .Posizionarsi in corrispondenza della parte superiore della scatola .Assicurarsi che non entri luce nella camera ottica utilizzando un telo nero .Illuminare l’oggetto da visualizzare con una torcia o  un altro tipo di  fonte luminosa e porlo in prossimità del foro. Per visualizzarlo osservare dal vetro sulla facciata superiore."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "1. La “camera oscura” si basa sul principio che i raggi luminosi provenienti da un oggetto fortemente illuminato, passando per una piccola apertura, si incrociano e proiettandosi su uno schermo piano, compongono un immagine rovesciata e invertita dell’oggetto in questione. <br>2. Più il foro è piccolo e più l’immagine risulta nitida e definita. Il foro stenopeico( ovvero u piccolo foro capace di proiettare luce) si comporta come un obbiettivo senza una lunghezza focale specifica<br>3. La lente convergente ha la propietà di far  divergere i raggi di luce, dopo il fuoco, rendendo l’immagine più nititda e luminosa.<br>4. Teoria ondulatoria: applicazione all’ottica della teoria delle onde elastiche, confermata dalla realtà dei fenomeni di interferenza e  diffrazione che permettonno di attribuire alla luce tutte  le caratteristiche della propagazione  delle onde ellettromagnetiche<br>5. Riflessione luce fenomeno per cui un fascio di onde cambia direzione a causa dell’ impatto con un materiale riflettente.<br>6. Rifrazione luce: è la deviazione subita da un’ onda quando questa passa da un mezzo a un altro nel quale la sua velocità di propagazione cambia.<br> Condizioni necessarie: 1. L’oggetto reale  deve essere illuminato da una forte luce<br>2. la scatola deve ricreare un ambiente molto scuro<br>3. il buco deve essere il più piccolo possibile affinché passino meno onde attraverso esso e  l’ immagine risulti nitida."
+                }
+            ],
+            "foto": ["assets/luce7.jpg"]
+        },
+        {
+            "titolo": "Strumento ottico",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Lo strumento ottico è un cannocchiale galiliano, realizzato per la prima volta nel XVII secolo da Galileo. Il cannocchiale presenta due lenti convergenti che, poste alle estremità dello strumento e alla dovuta distanza, permettono ingrandimenti di oltre cinque volte."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Tubo di plastica di 65cm diametro di 60mm</li><li> Tubo di plastica di lunghezza >15,1 cm diametro di 59mm</li><li> Lente convergente, diottrie +8(d. Focale 0,125m) diametro di 60mm:lente obiettivo;</li><li> Lente convergente, diottrie +1,5 (d. Focale 0,666m), diametro di 59mm: lente oculare </li> </ol>FASE 1<br> Fissare la lente obiettivo all’estremità del tubo di lunghezza e diametro maggiori<br>FASE 2<br>Fissare la lente oculare all’estremità del tubo di lunghezza e diametro minori <br>FASE 3<br>Inserire a scorrimento i due tubi in modo che le  due lenti siano poste alle estremità dello strumento "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Allungare lo strumento ottico affinché la sua lunghezza complessiva sia di 79,1 cm in modo che avvenga un ingrandimento a fuoco."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "L’ingrandimento a fuoco nel cannocchiale  galileiano avviene quando i fuochi delle due lenti coincidono in un unico punto. Perchè ciò avvenga l’apertura dello strumento deve essere equivalente alla somma delle lunghezze focali delle singole lenti: 66,6cm+ 12,5cm= 79,1 cm. L’ ingradimento ottenuto dal cannocchiale è dato dal rapporto fra le  distanze focali delle lenti:l= F1/F2 ed è dunque l=66,6cm/12,5cm=5,33cm."
+                }
+            ],
+            "foto": ["assets/luce8.jpg"]
+        },
+        {
+            "titolo": "Caleidoscopio",
+            "paragrafi": [
+                {
+                    "head": "Materiali e realizzazione:",
+                    "testo": "<ul><li>Un tubo di carbone</li><li>Un cerchio di plastica trasparente</li><li>Un cerchio di plastica opaca</li><li>Un cilindro di metallo con un foro</li><li>Perline</li><li>3 specchi (25cmX3.6cm)</li></ul>"
+                },
+                {
+                    "head": "Fase 1: ",
+                    "testo": "Abbiamo inizialmente attaccato i 3 specchi con lo scotch a forma di triangolo equilatero e lo abbiamo inserito all’interno del tubo di cartone."
+                },
+                {
+                    "head": "Fase 2: ",
+                    "testo": "In un’estremità del tubo abbiamo inserito il cerchio di metallo in modo da poter vedere solo all’interno dei 3 specchi. Nell’altra estremità abbiamo inserito un tubo di minore diametro chiuso dal cerchio di plastica trasparente e da quello di plastica opaca, al cui interno abbiamo messo le perline"
+                },
+                {
+                    "head": "Cosa fare: ",
+                    "testo": "Guardo, attraverso il foro, l’interno del caleidoscopio, e ruotandolo, osservo e conto le immagini che si riflettono sugli specchi."
+                },
+                {
+                    "head": "Cosa accade: ",
+                    "testo": "Dato che l’angolo tra gli specchi è di 60, ogni coppia di specchi produce 5 immagini dell’oggetto per un totale di 16 (5x3 + l’oggetto). Di queste immagini ne percepiamo solo 12 in quanto tre di esse sono sovrapposte. Ciò avviene grazie al fenomeno della riflessione che dice che quando la luce colpisce uno specchio, l’angolo di incidenza è uguale all’angolo di riflessione e i due angoli giacciono sullo stesso piano, perpendicolarmente alla superficie riflettente."
+                }
+            ],
+            "foto": ["assets/luce9.jpg"]
+        },
+        {
+            "titolo": "Piramide olografica",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "In questo esperimento sarà possibile notare come la collaborazione tra riflessione e rifrazione porti alla creazione di un'immagine tridimensionale. Per realizzarlo basta munirsi di qualche semplice materiale, facilmente reperibile, volto alla costruzione di un tronco di piramide a base quadrata trasparente (piramide olografica), che fungerà da mezzo di rifrazione e riflessione di un immagine proiettata da un dispositivo multimediale sottostante."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Plastica trasparente di poco spessore</li><li> Forbici taglia plastica </li><li> </li><li> Colla/Scotch </li><li>  Carta millimetrata</li><li> Penna/matita</li><li>Pennarello per plastica </li><li> Dispositivo multimediale</li></ol>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Utilizzare la carta millimetrata per realizzare un trapezio isoscele (base minore 1cm, base maggiore 6cm, lato obliquo 3,5cm: le misure possono essere aumentate tenendo conto delle proporzioni). Riprodurre l’immagine sulla plastica 4 volte, quindi ritagliare. Con colla o scotch unire i 4 trapezi di plastica in modo da formare un tronco di piramide a base quadrata. Prestare attenzione a non rovinare eccessivamente la plastica mente la si taglia."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Ciò che si osserva, ponendo la piramide sopra ad un dispositivo multimediale il quale riproduca la stessa immagine da 4 punti diversi dello schermo, è un ologramma. Il fenomeno si realizza per due proprietà essenziali della luce: riflessione e rifrazione. La riflessione è il fenomeno per cui un’onda cambia direzione a causa di un impatto con un materiale riflettente (interazione luce-materia). Secondo la legge che regola questo fenomeno l’angolo di incidenza, ovvero quello formato dal raggio incidente con la normale al suolo, è uguale all’angolo di riflessione, formato dal raggio riflesso con la normale al suolo. La legge che regola le misure angolari è la legge di Snell : Sin a / Sin b = n b / n a; dove n è l’indice di rifrazione del mezzo, mentre a e b sono gli angoli rispetto alla normale all’interfaccia tra i mezzi."
+                }
+            ],
+            "foto": ["assets/luce10.jpg"]
+        },
+        {
+            "titolo": "Esperimento del falso ologramma",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Un ologramma è il risultato di una tecnica di “manipolazione” della luce chiamata olografia. L’olografia permette la riproduzione di immagini tridimensionali sfruttando i fenomeni di rifrazione e riflessione della luce."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Lastre di materiale semiriflettente</li><li> Sorgente luminosa</li><li> Per il modello con una sola lastra cercare su youtube il video “holograme compilation 3D display 1 face holographic” e collocare il telefonino in posizione adatta sugli appositi sostegni. </li><li> Per l’esperimento con la piramide cercare “pyramid hologram, screen up & down”. </li> </ol>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": " Per l’esperimento con la piramide cercare “pyramid hologram, screen up & down”. "
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Il fenomeno implicato nell’esperimento è quello della riflessione. I raggi luminosi provenienti dalla sorgente incidono su una lastra semiriflettente. Questa scompone ciascun raggio in due parti r1 e r2. I raggi r1 vengono riflessi dalla lastra e i loro prolungamenti danno origine all’immagine virtuale della sorgente, mentre i raggi r2 vengono assorbiti dal piano di appoggio."
+                }
+            ],
+            "foto": ["assets/luce11.jpg"]
+        },
+        {
+            "titolo": "La polarizzazione della luce",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "La luce è un’onda composta da un campo elettrico e da un campo magnetico che si propagano come onde trasversali e oscillano su piani perpendicolari tra loro. La luce è polarizzata linearmente quando il campo elettrico oscilla in un piano. Un fascio di luce possiede moltissime onde campo elettrico con direzioni diverse: il fascio di luce non è polarizzato. E’ possibile polarizzare il fascio facendogli attraversare un filtro polaroid che consente solo alla radiazione con una precisa direzione di polarizzazione di attraversarlo. Se un fascio di luce naturale attraversa un disco polaroid con asse di polarizzazione verticale, il raggio trasmesso viene attenuato in intensità ma risulta polarizzato verticalmente. Accostando due polaroid con gli assi fra loro perpendicolari, non passa nessun raggio luminoso. Ponendo un terzo polaroid opportunatamente orientato in mezzo agli altri due  la visuale schiarisce. Aggiungendo un ostacolo riusciamo a far passare più luce."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Tre  filtri polaroid (tre lenti polaroid) </li><li>  Un supporto per le lenti (scatola di cartone)</li><li> Una fonte luminosa (lampada) </li> </ol>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "<ol><li>Ruotare le prime due lenti in  modo che i loro assi di polarizzazione siano perpendicolari tra di loro, quindi osservare: la luce non passa.</li><li>Inserire la terza in mezzo alle altre due, in modo che il suo asse formi un angolo di 45° con quelli delle altre due, quindi osservare: la visuale si è schiarita, dunque l’intensità luminosa uscente è aumentata.</li></ol>"
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "<ol><li>Poniamo il primo asse di polarizzazione orizzontale ed il secondo verticale. Quando la luce passa attraverso il primo polaroid, il campo elettrico viene scomposto in una componente parallela all’asse, che passa, e in una componente perpendicolare, che viene assorbita. La luce che esce dal primo filtro è dunque polarizzata orizzontalmente. Il secondo filtro presenta l’asse di polarizzazione perpendicolare alla direzione dei raggi trasmessi, quindi li assorbe completamente.</li><li>I raggi polarizzati verticalmente incontrano ora per primo il filtro con inclinazione a 45°; essi vengono nuovamente scomposti in due componenti (uguali in modulo) inclinate di 45° rispetto all’orizzontale e perpendicolari fra loro: passerà la componente parallela all’asse. Di conseguenza i raggi che arrivano all’ultimo polarizzatore non sono più orizzontali, ma inclinati (sempre di 45°) rispetto ad esso. Vengono quindi scomposti  un’ultima volta: passerà ora la componente polarizzata verticalmente. Complessamente una parte della luce entrante nel primo polarizzatore riuscirà ad uscire dall’ultimo, quindi la visuale si schiarirà.</li></ol><br>In generale, un’onda con direzione di polarizzazione parallela all’asse del polaroid passerà in tutta la sua intensità, una con direzione perpendicolare sarà bloccata ed una con orientazione diversa passerà con intensità attenuata."
+                }
+            ],
+            "foto": ["assets/luce12.jpg"]
+        },
+        {
+            "titolo": "Questioni di fase",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Vengono rappresentati dei raggi X che colpiscono due piani paralleli di atomi. Quando riemergono possono essere in fase, generando quindi diffrazione, oppure no. Lo scopo dell’esperimento è quello di dimostrare che soltanto con un particolare angolo di incidenza determinato dalla legge di Bragg, le due onde riemergono in fase, dando forma all’immagine che chiarisce la disposizione degli atomi delle celle cristalline."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> 2 fili di ferro lunghi </li><li>2 fili di ferro corti</li><li>1 asta fissata con viti</li><li>1 tavola di legno.</li></ol>FASE 1<br>: Ancorare l’asta maggiore al legno. Questa deve avere nella sua altezza una fenditura.<br>FASE 2<br>Collegare i due fili dritti con una delle due aste corte. In seguito collegare con la seconda asta corta i due filamenti ondulati di ferro. I fili superiori devono essere vincolati all’asta centrale."
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Alzare e abbassare i “raggi incidenti” rappresentati dai due fili dritti, e i “raggi emersi” (i fili ondulati) prestando attenzione al fatto che le due coppie formino lo stesso angolo con la verticale. I fili inferiori seguiranno lo stesso movimento, ma per mezzo della fenditura dell’asta potranno scorrervi all’interno."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Dato che il filo ondulato inferiore è libero di scorrere all’interno della fenditura, esso può anche uscire dalla fase ottenuta con l’altro filamento. Continuando ad alzare e ad abbassare i bracci della struttura si potranno quindi osservare degli angoli precisi che consentono alle due “onde riemerse” di essere in fase."
+                },
+                {
+                    "head": "Spiegazione",
+                    "testo": "Secondo la legge di Bragg soltanto alcuni angoli di incidenza dei raggi permettono alle onde riemerse di essere in fase tra loro, e di generare la diffrazione rilevata dalle immagini ottenute dagli esami cristallografici. Quando la lunghezza d’onda del raggio inviato è circa uguale alla distanza tra un atomo e l’altro, la diffrazione permette anche la diffusione: ecco perché vengono utilizzati i raggi X. "
+                }
+            ],
+            "foto": ["assets/luce13.jpg"]
+        },
+        {
+            "titolo": "Questioni di fase 2",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Su un disco rotante vengono disposti dei bastoncelli rappresentanti gli atomi che compongono strati paralleli di un minerale. Il tutto viene coperto da una scatola dalla cui fenditura è possibile osservare un allineamento dii “atomi”, determinando quindi degli allineamenti precisi. Lo scopo è quello di dimostrare che in cristallografia solamente se si osserva la struttura cristallina con un determinato angolo, ovvero quello di Bragg, sarà possibile individuare questi allineamenti."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li>1 disco rotante forato</li><li> bastoncini di legno di ugual misura</li><li>una scatola con fenditura. </li></ol>FASE 1<br>Forare il disco rotante a intervalli regolari in entrambe le dimensioni. <br>FASE 2<br>Inserire i bastoncini all’interno dei fori. <br>FASE 3<br>Coprire il tutto con la scatola con la fenditura precedentemente tagliata. "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Esperimento: Ruotando il disco ed osservando dalla fenditura della scatola si potranno osservare vari allineamenti dei bastoncini, ovvero degli “atomi”."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Attraverso la fenditura si possono osservare gli “atomi”. Dato che la struttura di base è rotante è possibile farla girare fino a quando non vengono notati degli allineamenti molto precisi dei bastoncelli. Infatti soltanto alcune angolazioni precise permettono di osservare la ripetizione del vettore che congiunge gli atomi delle celle cristalline."
+                },
+                {
+                    "head": "Spiegazione",
+                    "testo": "Questo esperimento non è altro che la visione macroscopica di quello precedente. Infatti vengono individuati degli angoli (di Bragg) che consentono una visione allineata degli atomi."
+                }
+            ],
+            "foto": ["assets/luce14.jpg"]
+        },
+        {
+            "titolo": "Spettroscopia",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "L’esperimento consiste nell’osservare i differenti spettri di emissione di diverse fonti luminose attraverso l’uso dello spettroscopio; capire la funzionalità di quest’ultimo e quindi il fenomeno della diffrazione, strettamente correlato alla natura ondulatoria della luce."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Tubo di cartone</li><li> CD usato</li><li> Catroncino nero</li><li> Lampadine di vario genere</li><li> Dimmer</li>"
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Osservare attraverso lo spettroscopio la luce solare e quella prodotta dalle varie tipologie di lampadine e notare le differenze nello spettro prodotto. <br>Regolare l’intensità luminosa della lampadina alogena attraverso il dimmer e notare le differenze nello spettro prodotto."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "La luce, in quanto onda elettromagnetica, è soggetta al fenomeno della diffrazione. Il CD svolge la funzione di reticolo di diffrazione, infatti durante la scrittura del CD vengono effettuate sulla sua superficie, delle minuscole incisioni. Il reticolo di diffrazione, permette di scomporre la luce nei vari colori dello spettro aventi lunghezza d’onda differente: al rosso corrisponde la lunghezza d’onda maggiore, mentre al blu quella minore. Gli spettri risultano differenti in relazione alla fonte luminosa: la lampadina alogena genera luce attraverso il riscaldamento del filamento al suo interno, la lampadina fluorescente invece funziona attraverso l’eccitazione degli atomi di mercurio, i quali emettono onde ultraviolette, che l’occhio umano non può vedere. Queste vengono convertite in fotoni dalle polveri fluorescenti di cui è rivestito l’interno del vetro della lampadina. Infine i LED funzionano attraverso dei semiconduttori solidi. Attraverso il dimer si può regolare l’intensità della lampadina a incandescenza. Ciò coincide con l’aumento della temperatura del filamento interno che coincide con l’emissione di onde con lunghezza sempre minore.   "
+                }
+            ],
+            "foto": ["assets/luce15.jpg"]
+        },
+        {
+            "titolo": "Fibre ottiche",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Lo scopo dell'esperimento è quello di dimostrare il comportamento dei fasci luminosi all'interno delle fibre ottiche. L'esperimento consiste nel puntare un fascio laser all'interno di un fiotto d'acqua.  Il comportamento del fascio luminoso nell'acqua è lo stesso di quello nella fibra ottica."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Contenitore di acuqua</li><li>Acqua/li><li> Laser colorato</li><li> Bacinella</li> </ol>FASE 1<br>Puntare il laser verso il foro da cui esce il fiotto d'acqua. <br>FASE 2<br>Osservare il comportamento del fascio di luce del laser all'interno del fiotto d'acqua.<br>FASE 3<br> "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Osservare la riflessione della luce all'interno del getto d'acqua."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Il fascio laser all'interno dell'acqua tenderà a seguire la curvatura del fiotto rimanendo al suo interno. Questo perché il mezzo in cui si propaga la luce (l'acqua) ha una densità maggiore dell'aria, ciò determina una differenza di indice di rifrazione tra acqua e aria. Questa differenza fa si che si verifichi una riflessione interna totale del raggio laser nell'interfaccia acqua/aria. Questo principio di riflessione interna totale è lo stesso che determina il funzionamento delle più moderne fibre ottiche."
+                }
+            ],
+            "foto": ["assets/luce16.jpg"]
+        },
+        {
+            "titolo": "Diffrazione della luce",
+            "paragrafi": [
+                {
+                    "head": "Abstract",
+                    "testo": "Questo esperimento fu condotto per la prima volta da Thomas Young nel 1801 per dimostrare la natura ondulatoria della luce e calcolarne la lunghezza d'onda."
+                },
+                {
+                    "head": "Materiali e realizzazione",
+                    "testo": "<ol><li> Foglio di compensato</li><li>Laser rosso</li><li>Doppie fenditure </li><li> Schermo per proiezione</li><li> Sostegni in metallo</li></ol>FASE 1<br>Tagliare dal compensato una base d'appoggio per il laser e le fenditure. <br>FASE 2<br> Tagliare due asticelle e forarle con il diametro del laser.<br>FASE 3<br>Incollare alla base il laser con i relativi sostegni.<br>FASE 4 <br> Incollare il sostegno per le fenditure a una base in legno da far scorrere sul compensato e assicurarsi che la luce del laser colpisca entrambe le fenditure.<br>FASE 5<br> Posizionare lo schermo ad una distanza maggiore di 2 metri dalle fenditure. "
+                },
+                {
+                    "head": "Cosa fare",
+                    "testo": "Accendere il laser e osservare sullo schermo le bande di interferenza che si formano.<br>Avvicinare e allontanare lo schermo dalle fenditure e osservare il modo in cui variano le distanze tra le fenditure."
+                },
+                {
+                    "head": "Cosa accade",
+                    "testo": "Il fascio luminoso monocromatico illumina uno schermo opaco con due fenditure parallele di larghezza sufficientemente piccola in confronto alla lunghezza d'onda del fascio di luce. In questo modo, per il principio di Huygens, le fenditure diventano due nuove sorgenti di luce che generano su uno schermo delle fasce scure,formate dall'interferenza distruttiva delle onde provenienti dalle due nuove sorgenti, e fasce luminose di interferenza costruttiva quando le onde hanno la stessa direzione, fondendosi in un'unica onda."
+                }
+            ],
+            "foto": ["assets/luce17.jpg"]
+        }
+    ]
+}
