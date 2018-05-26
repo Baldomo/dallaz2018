@@ -31,7 +31,6 @@ $(function () {
                 var rendered = Mustache.render(t, d);
                 $('#content-wrapper').html(rendered);
                 setupPills();
-                setupViewer('.gallery');
             });
         });
 

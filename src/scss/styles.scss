@@ -71,7 +71,7 @@ html, body {
 
 #cover {
     @include unselectable();
-    background: #222 url('../assets/desert-sky.jpg') center fixed no-repeat;
+    background: #222 url('../assets/cover.jpg') center fixed no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
@@ -83,6 +83,10 @@ html, body {
 
 #cover-caption {
     width: 100%;
+}
+
+.caption {
+    text-shadow: 0 2px 8px #000;
 }
 
 .cover-button {
