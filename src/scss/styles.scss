@@ -163,18 +163,6 @@ html, body {
     }
 }
 
-// semplicemente un elemento vuoto che occupa molto spazio,
-// utile per testare la pagina
-.filler {
-    flex: 1;
-    height: 2000px;
-    width: 100%;
-
-    &::after{
-        content: '\200b';
-    }
-}
-
 #content-wrapper {
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -236,8 +224,16 @@ hr:last-child {
     }
 }
 
-.gallery a img {
-    object-fit: cover;
-    width: 200px;
-    height: 200px;
+.gallery {
+    margin-top: 3rem;
+
+    & a img {
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        
+        &:not(first-child) {
+            margin-left: 12px;
+        }
+    }
 }

@@ -1,7 +1,7 @@
 {
 	"esperimenti": [
 		{
-			"titolo": "ESPERIMENTI PER PENSARE. TUTORING NEGLI I.C. DELLA RETE L.E.S.",
+			"titolo": "Esperimenti per pensare. tutoring negli I.C. della rete L.E.S.",
 			"paragrafi": [
 				{
 					"head": "Studenti della classe quarta B",
@@ -36,7 +36,11 @@
 					"testo": "<ul><li>Eidophone (visualizzare il suono)</li> <li> propagazione del suono nell'aria, nell'acqua e nel legno.</li><li> Propagazione del suono nel vuoto e  nell'aria, la campanella sottovuoto.</li><li>Xilofoni, uno di legno e uno di plexiglass, altezza, timbro, intensità</li><li>Bicchiere che suona </li><li>Bottiglie sonore </li><li>Canna d'organo: risonanza in un tubo aperto che scorre dentro a uno più grande riempito di acqua</li><li>Barattolo con molla: amplificazione del suono </li></ul>"
 				}
 			],
-			"foto": []
+			"foto": [
+				"assets/badoere-10.png",
+				"assets/badoere-12.png",
+				"assets/badoere-14.png"
+			]
 		}
 	]
 }
