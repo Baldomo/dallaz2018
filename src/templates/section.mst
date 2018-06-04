@@ -18,7 +18,7 @@
     </div>
     <aside class="col-12 col-lg-4 collapse show" id="side-nav">
         <section class="col-xs-12">
-            <ul class="nav nav-pills flex-column ml-auto">
+            <ul class="nav flex-column nav-pills navbar-dark ml-auto">
                 {{#esperimenti}}
                 <li class="nav-item pill">
                     <a class="nav-link placebo" href="javascript:;" data-to="{{titolo}}">{{titolo}}</a>
