@@ -1,21 +1,4 @@
 <div class="row">
-    <div class="col-12 col-lg-8" id="content">
-        {{#esperimenti}}
-        <h1 id="{{titolo}}">{{titolo}}</h1>
-        {{#paragrafi}}
-        <h4>{{head}}</h4>
-        <p>{{&testo}}</p>
-        {{/paragrafi}}
-        <div class="row gallery justify-content-center">
-            {{#foto}}
-            <a href="{{&.}}" target="_blank">
-                <img class="img-thumbnail" src="{{&.}}" alt="">
-            </a>
-            {{/foto}}
-        </div>
-        <hr>
-        {{/esperimenti}}
-    </div>
     <aside class="col-12 col-lg-4 collapse show" id="side-nav">
         <section class="col-xs-12">
             <ul class="nav flex-column nav-pills navbar-dark ml-auto">
@@ -27,4 +10,20 @@
             </ul>
         </section>
     </aside>
+    <div class="col-12 col-lg-8" id="content">
+        {{#esperimenti}}
+        <h1 id="{{titolo}}">{{titolo}}</h1>
+        {{#paragrafi}}
+        <h4>{{head}}</h4>
+        <p>{{&testo}}</p>
+        {{/paragrafi}}
+        <div class="row gallery justify-content-center">
+            {{#foto}}
+            <a href="{{&.}}" target="_blank" class="">
+                <img class="img-thumbnail" src="{{&.}}" alt="">
+            </a>
+            {{/foto}}
+        </div>
+        <hr> {{/esperimenti}}
+    </div>
 </div>

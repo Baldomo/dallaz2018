@@ -9,15 +9,11 @@ $(function () {
         "pw": "../templates/section.mst"
     }
 
-    $.scrollify({
-        section: '.scrollable',
-        updateHash: false,
-        overflowScroll: true,
-        standardScrollElements: '#nav-main, footer'
-    });
-
     $('#learn-more').on('click', () => {
-        $.scrollify.next();
+        $('html, body').stop();
+        $('html, body').animate({
+            scrollTop: $('#nav-main').offset().top
+        }, 800);
     });
 
     $('#nav-main').stickUp({
@@ -26,7 +22,8 @@ $(function () {
 
     function render(section) {
         $('#content-wrapper').html('');
-        $.getJSON(`../json/${section}.json`, (d) => {
+        var json = `../json/${section}.json`;
+        $.getJSON(json, (d) => {
             $.get(templates[section], (t) => {
                 var rendered = Mustache.render(t, d);
                 $('#content-wrapper').html(rendered);
@@ -38,10 +35,13 @@ $(function () {
 
     function setupPills() {
         $('.placebo').on('click', function() {
+            $('.placebo').removeClass('active');
+            $(this).toggleClass('active');
             var to = $(this).data('to');
+            $('html, body').stop();
             $('html, body').animate({
                 scrollTop: $(document.getElementById(to)).offset().top - (3 * rem())
-            }, 1000);
+            }, 800);
         });
 
         $('.nav-pills').stickUp({
@@ -63,7 +63,6 @@ $(function () {
         $('.navbar-nav .nav-link.active').removeClass('active');
         $(this).addClass('active');
         render($(this).data('section').toLowerCase());
-        $.scrollify.update();
     });
 
     render($('.navbar-nav .nav-link.active').data('section').toLowerCase());

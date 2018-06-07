@@ -1,13 +1,10 @@
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
-
-/*@font-face {
-    font-family: 'Roboto', sans-serif;
-    src: url('https://fonts.googleapis.com/css?family=Roboto:400,900');
-}*/
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700|Sunflower:700';
 
 // Variables
 $nav-color: rgb(48, 48, 48);
 $nav-hover: rgba(255, 255, 255, .95);
+$mat-text: rgb(49, 49, 49);
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
@@ -32,6 +29,14 @@ $desktop-width: 1024px;
     -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -o-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -khtml-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@mixin glow($radius, $tint) {
+    box-shadow: 0 0 $radius $tint;
+    -moz-box-shadow: 0 0 $radius $tint;
+    -webkit-box-shadow: 0 0 $radius $tint;
+    -o-box-shadow: 0 0 $radius $tint;
+    -khtml-box-shadow: 0 0 $radius $tint;
 }
 
 @mixin tablet {
@@ -60,12 +65,25 @@ $desktop-width: 1024px;
     display: inline-block;
     border-width: 2px;
     border: 2px solid white;
-    border-radius: 2em 2em 2em 2em;
+    border-radius: 2em;
+    padding: 10px 20px 10px 20px;
+    transition: all .2s ease-in;
+}
+
+%glowy-button {
+    font-weight: 700;
+    font-family: 'PT Sans', sans-serif;
+    color: $mat-text;
+    display: inline-block;
+    border-width: 0;
+    border-radius: 2em;
     padding: 10px 20px 10px 20px;
     transition: all .2s ease-in;
 }
 
 html, body {
+    font-weight: 400;
+    font-family: 'PT Sans', sans-serif;
     height: 100vh;
 }
 
@@ -76,7 +94,7 @@ html, body {
     color: white;
     height: 100%;
     width: 100%;
-    text-align: left;
+    text-align: center;
     display: flex;
     align-items: center;
 }
@@ -90,14 +108,34 @@ html, body {
 }
 
 .cover-button {
-    @extend %rounded-button;
-    margin-right: 12px;
+    text-decoration: none;
 
-    &:hover {
-        text-decoration: none;
+    &.glass{
+        @extend %rounded-button;
+        margin-right: 12px;
+
+        &:hover {
+            text-decoration: none;
+            background-color: white;
+            color: black;
+            @include shadow();
+        }
+    }
+
+    &.material {
+        @extend %glowy-button;
+        &.glow { 
+            @include glow(20px, white);
+            padding: 14px 24px;
+        }
         background-color: white;
-        color: black;
-        @include shadow();
+        //margin-right: 12px;
+
+        &:hover {
+            &.glow { @include glow(24px, white); }
+            text-decoration: none;
+            background-color: rgb(207, 207, 207);
+        }
     }
 }
 
@@ -134,7 +172,16 @@ html, body {
 
     &.pill {
         background-color: $nav-color;
+        padding: 0 4px;
         border-radius: 0;
+
+        &:first-of-type {
+            padding-top: 4px;
+        }
+
+        &:last-of-type {
+            padding-bottom: 4px;
+        }
 
         &:last-child {
             border-bottom-left-radius: 6px;
@@ -146,14 +193,19 @@ html, body {
             border-top-left-radius: 6px;
             border-top-right-radius: 6px;
         }
+    }
+}
 
-        .placebo {
-            color: $navbar-dark-color;
+.placebo {
+    color: $navbar-dark-color;
 
-            @include hover-focus {
-                color: $navbar-dark-hover-color;
-            }
-        }
+    @include hover-focus {
+        color: $navbar-dark-hover-color;
+    }
+
+    &.active {
+        background-color: $nav-hover !important;
+        color: black !important;
     }
 }
 
@@ -212,6 +264,10 @@ html, body {
 
 hr:last-child {
     display: none;
+}
+
+footer {
+    @include unselectable();
 }
 
 .footer-div {
